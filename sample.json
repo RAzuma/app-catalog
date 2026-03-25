@@ -1,0 +1,16 @@
+{
+  "apps": [
+    {
+      "name": "サンプルアプリA 試験対策 問題集",
+      "icon": "📘",
+      "android_package": "jp.razuma.samplea",
+      "ios_id": "6760967908"
+    },
+    {
+      "name": "サンプルアプリB 試験対策 問題集",
+      "icon": "📗",
+      "android_package": "jp.razuma.sampleb",
+      "ios_id": "6760714466"
+    }
+  ]
+}
