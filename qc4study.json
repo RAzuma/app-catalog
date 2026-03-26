@@ -1,4 +1,52 @@
 {
   "apps": [
+    {
+      "name": "QC検定® 3級 試験対策",
+      "icon": "https://razuma.github.io/app-catalog/icons/qc3study.webp",
+      "android_package": "jp.razuma.qc3study",
+      "ios_id": ""
+    },
+    {
+      "name": "QC検定® 2級 試験対策",
+      "icon": "https://razuma.github.io/app-catalog/icons/qc2study.webp",
+      "android_package": "jp.razuma.qc2study",
+      "ios_id": ""
+    },
+    {
+      "name": "QC検定® 準1級 試験対策",
+      "icon": "https://razuma.github.io/app-catalog/icons/qcj1study.webp",
+      "android_package": "jp.razuma.qcj1study",
+      "ios_id": ""
+    },
+    {
+      "name": "QC検定® 1級 試験対策",
+      "icon": "https://razuma.github.io/app-catalog/icons/qc1study.webp",
+      "android_package": "jp.razuma.qc1study",
+      "ios_id": ""
+    },
+    {
+      "name": "G検定 AI試験対策",
+      "icon": "https://razuma.github.io/app-catalog/icons/gkenteistudy.webp",
+      "android_package": "jp.razuma.gkenteistudy",
+      "ios_id": ""
+    },
+    {
+      "name": "相続アドバイザー 3級 試験対策",
+      "icon": "https://razuma.github.io/app-catalog/icons/souzoku3study.webp",
+      "android_package": "jp.razuma.souzoku3study",
+      "ios_id": ""
+    },
+    {
+      "name": "第二種電気工事士 試験対策",
+      "icon": "https://razuma.github.io/app-catalog/icons/denko2study.webp",
+      "android_package": "jp.razuma.denko2study",
+      "ios_id": ""
+    },
+    {
+      "name": "秘書検定 3級 試験対策",
+      "icon": "https://razuma.github.io/app-catalog/icons/hisho3study.webp",
+      "android_package": "jp.razuma.hisho3study",
+      "ios_id": ""
+    }
   ]
 }
