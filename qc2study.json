@@ -4,49 +4,49 @@
       "name": "QC検定® 4級 試験対策",
       "icon": "📝",
       "android_package": "jp.razuma.qc4study",
-      "ios_id": ""
+      "ios_id": "id6761115450"
     },
     {
       "name": "QC検定® 3級 試験対策",
       "icon": "📊",
       "android_package": "jp.razuma.qc3study",
-      "ios_id": ""
+      "ios_id": "id6761117666"
     },
     {
       "name": "QC検定® 準1級 試験対策",
       "icon": "🏅",
       "android_package": "jp.razuma.qcj1study",
-      "ios_id": ""
+      "ios_id": "id6761126587"
     },
     {
       "name": "QC検定® 1級 試験対策",
       "icon": "🏆",
       "android_package": "jp.razuma.qc1study",
-      "ios_id": ""
+      "ios_id": "id6761127034"
     },
     {
       "name": "G検定 AI試験対策",
       "icon": "🤖",
       "android_package": "jp.razuma.gkenteistudy",
-      "ios_id": ""
+      "ios_id": "id6760967908"
     },
     {
       "name": "相続アドバイザー 3級 試験対策",
       "icon": "🏠",
       "android_package": "jp.razuma.souzoku3study",
-      "ios_id": ""
+      "ios_id": "id6760969295"
     },
     {
       "name": "第二種電気工事士 試験対策",
       "icon": "⚡",
       "android_package": "jp.razuma.denko2study",
-      "ios_id": ""
+      "ios_id": "id6760653775"
     },
     {
       "name": "秘書検定 3級 試験対策",
       "icon": "💼",
       "android_package": "jp.razuma.hisho3study",
-      "ios_id": ""
+      "ios_id": "id6760639728"
     }
   ]
 }
