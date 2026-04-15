@@ -1,0 +1,58 @@
+{
+  "self": {
+    "name": "証券外務員一種 試験対策 問題集",
+    "icon": "📈",
+    "android_package": "jp.razuma.gaimuin1study",
+    "ios_id": "id6760966987"
+  },
+  "apps": [
+    {
+      "name": "証券外務員二種 試験対策 問題集",
+      "icon": "💹",
+      "android_package": "jp.razuma.gaimuin2study",
+      "ios_id": "id6760942112"
+    },
+    {
+      "name": "生命保険一般課程 試験対策 問題集",
+      "icon": "🌸",
+      "android_package": "jp.razuma.seihostudy",
+      "ios_id": "id6759522743"
+    },
+    {
+      "name": "生命保険専門課程 試験対策 問題集",
+      "icon": "🏥",
+      "android_package": "jp.razuma.seihosenstudy",
+      "ios_id": "id6760279665"
+    },
+    {
+      "name": "損害保険募集人 試験対策 問題集",
+      "icon": "🛡",
+      "android_package": "jp.razuma.sonpostudy",
+      "ios_id": "id6760193489"
+    },
+    {
+      "name": "貸金業務取扱主任者 試験対策 問題集",
+      "icon": "🏦",
+      "android_package": "jp.razuma.kashikinstudy",
+      "ios_id": "id6760295551"
+    },
+    {
+      "name": "相続アドバイザー3級 試験対策 問題集",
+      "icon": "📜",
+      "android_package": "jp.razuma.souzoku3study",
+      "ios_id": "id6760969295"
+    },
+    {
+      "name": "財務3級 銀行業務検定 試験対策 問題集",
+      "icon": "📊",
+      "android_package": "jp.razuma.zaimu3study",
+      "ios_id": "id6762174961"
+    },
+    {
+      "name": "生成AIパスポート 試験対策 問題集",
+      "icon": "🤖",
+      "android_package": "jp.razuma.aipassstudy",
+      "ios_id": "id6762179023"
+    }
+  ]
+}

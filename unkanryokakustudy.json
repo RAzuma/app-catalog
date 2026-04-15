@@ -1,0 +1,58 @@
+{
+  "self": {
+    "name": "運行管理者（旅客） 試験対策 問題集",
+    "icon": "🚌",
+    "android_package": "jp.razuma.unkanryokakustudy",
+    "ios_id": "id6760637029"
+  },
+  "apps": [
+    {
+      "name": "運行管理者（貨物） 試験対策 問題集",
+      "icon": "🚚",
+      "android_package": "jp.razuma.unkankamotsustudy",
+      "ios_id": "id6760634110"
+    },
+    {
+      "name": "通関士 試験対策 問題集",
+      "icon": "📝",
+      "android_package": "jp.razuma.tsukanshistudy",
+      "ios_id": "id6762170228"
+    },
+    {
+      "name": "2級小型船舶操縦士 試験対策 問題集",
+      "icon": "⛵",
+      "android_package": "jp.razuma.senpaku2study",
+      "ios_id": "id6762180156"
+    },
+    {
+      "name": "防災士 試験対策 問題集",
+      "icon": "🛡️",
+      "android_package": "jp.razuma.bousaistudy",
+      "ios_id": "id6760714466"
+    },
+    {
+      "name": "二級ボイラー技士 試験対策 問題集",
+      "icon": "🔥",
+      "android_package": "jp.razuma.boilerstudy",
+      "ios_id": "id6760298953"
+    },
+    {
+      "name": "給水装置工事主任技術者 試験対策 問題集",
+      "icon": "🚿",
+      "android_package": "jp.razuma.kyusuistudy",
+      "ios_id": "id6759002078"
+    },
+    {
+      "name": "第二種電気工事士 試験対策 問題集",
+      "icon": "⚡",
+      "android_package": "jp.razuma.denko2study",
+      "ios_id": "id6760653775"
+    },
+    {
+      "name": "生成AIパスポート 試験対策 問題集",
+      "icon": "🤖",
+      "android_package": "jp.razuma.aipassstudy",
+      "ios_id": "id6762179023"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "self": {
+    "name": "2級造園施工管理技士 試験対策 問題集",
+    "icon": "🌿",
+    "android_package": "jp.razuma.zouen2study",
+    "ios_id": "id6760718732"
+  },
+  "apps": [
+    {
+      "name": "1級造園施工管理技士 試験対策 問題集",
+      "icon": "🌳",
+      "android_package": "jp.razuma.zouen1study",
+      "ios_id": "id6760777484"
+    },
+    {
+      "name": "第二種電気工事士 試験対策 問題集",
+      "icon": "⚡",
+      "android_package": "jp.razuma.denko2study",
+      "ios_id": "id6760653775"
+    },
+    {
+      "name": "給水装置工事主任技術者 試験対策 問題集",
+      "icon": "🚿",
+      "android_package": "jp.razuma.kyusuistudy",
+      "ios_id": "id6759002078"
+    },
+    {
+      "name": "二級ボイラー技士 試験対策 問題集",
+      "icon": "🔥",
+      "android_package": "jp.razuma.boilerstudy",
+      "ios_id": "id6760298953"
+    },
+    {
+      "name": "消防設備士 甲種1類 試験対策 問題集",
+      "icon": "💧",
+      "android_package": "jp.razuma.shouboukou1study",
+      "ios_id": "id6761740003"
+    },
+    {
+      "name": "消防設備士 甲種4類 試験対策 問題集",
+      "icon": "🔔",
+      "android_package": "jp.razuma.shouboukou4study",
+      "ios_id": "id6761760019"
+    },
+    {
+      "name": "防災士 試験対策 問題集",
+      "icon": "🛡️",
+      "android_package": "jp.razuma.bousaistudy",
+      "ios_id": "id6760714466"
+    },
+    {
+      "name": "生成AIパスポート 試験対策 問題集",
+      "icon": "🤖",
+      "android_package": "jp.razuma.aipassstudy",
+      "ios_id": "id6762179023"
+    }
+  ]
+}
