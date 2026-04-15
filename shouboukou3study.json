@@ -1,34 +1,40 @@
 {
+  "self": {
+    "name": "消防設備士 甲種3類 試験対策 問題集",
+    "icon": "🌫️",
+    "android_package": "jp.razuma.shouboukou3study",
+    "ios_id": "id6761755237"
+  },
   "apps": [
     {
       "name": "消防設備士 甲種特類 試験対策 問題集",
       "icon": "🚒",
       "android_package": "jp.razuma.shouboukoutokustudy",
-      "ios_id": ""
+      "ios_id": "id6761763049"
     },
     {
       "name": "消防設備士 甲種第1類 試験対策 問題集",
       "icon": "💧",
       "android_package": "jp.razuma.shouboukou1study",
-      "ios_id": ""
+      "ios_id": "id6761740003"
     },
     {
       "name": "消防設備士 甲種第2類 試験対策 問題集",
       "icon": "🫧",
       "android_package": "jp.razuma.shouboukou2study",
-      "ios_id": ""
+      "ios_id": "id6761740715"
     },
     {
       "name": "消防設備士 甲種第4類 試験対策 問題集",
       "icon": "🔔",
       "android_package": "jp.razuma.shouboukou4study",
-      "ios_id": ""
+      "ios_id": "id6761760019"
     },
     {
       "name": "消防設備士 甲種第5類 試験対策 問題集",
       "icon": "🪜",
       "android_package": "jp.razuma.shouboukou5study",
-      "ios_id": ""
+      "ios_id": "id6761761435"
     },
     {
       "name": "消防設備士 乙種第1類 試験対策 問題集",
@@ -76,7 +82,7 @@
       "name": "防災士 試験対策 問題集",
       "icon": "🛡️",
       "android_package": "jp.razuma.bousaistudy",
-      "ios_id": ""
+      "ios_id": "id6760714466"
     }
   ]
 }

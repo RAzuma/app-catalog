@@ -1,4 +1,10 @@
 {
+  "self": {
+    "name": "QC検定® 2級 試験対策 問題集",
+    "icon": "📈",
+    "android_package": "jp.razuma.qc2study",
+    "ios_id": "id6761119279"
+  },
   "apps": [
     {
       "name": "QC検定® 4級 試験対策",
