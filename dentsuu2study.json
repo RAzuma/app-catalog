@@ -1,15 +1,15 @@
 {
   "self": {
-    "name": "電気通信工事施工管理技士 1級 試験対策 問題集",
+    "name": "電気通信工事施工管理技士 2級 試験対策 問題集",
     "icon": "📡",
-    "android_package": "jp.razuma.dentsuu1study",
+    "android_package": "jp.razuma.dentsuu2study",
     "ios_id": ""
   },
   "apps": [
     {
-      "name": "電気通信工事施工管理技士 2級 試験対策 問題集",
+      "name": "電気通信工事施工管理技士 1級 試験対策 問題集",
       "icon": "📡",
-      "android_package": "jp.razuma.dentsuu2study",
+      "android_package": "jp.razuma.dentsuu1study",
       "ios_id": ""
     },
     {
@@ -43,12 +43,6 @@
       "ios_id": "id6760298953"
     },
     {
-      "name": "消防設備士 甲種1類 試験対策 問題集",
-      "icon": "💧",
-      "android_package": "jp.razuma.shouboukou1study",
-      "ios_id": "id6761740003"
-    },
-    {
       "name": "消防設備士 甲種4類 試験対策 問題集",
       "icon": "🔔",
       "android_package": "jp.razuma.shouboukou4study",
@@ -65,6 +59,12 @@
       "icon": "🛡️",
       "android_package": "jp.razuma.bousaistudy",
       "ios_id": "id6760714466"
+    },
+    {
+      "name": "G検定 試験対策 問題集",
+      "icon": "🤖",
+      "android_package": "jp.razuma.gkenteistudy",
+      "ios_id": "id6760967908"
     }
   ]
 }
