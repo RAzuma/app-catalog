@@ -3,7 +3,7 @@
     "name": "製菓衛生師 試験対策 問題集",
     "icon": "🍰",
     "android_package": "jp.razuma.seikastudy",
-    "ios_id": ""
+    "ios_id": "id6763000184"
   },
   "apps": [
     {
@@ -40,13 +40,13 @@
       "name": "ねこ検定初級 試験対策 問題集",
       "icon": "🐱",
       "android_package": "jp.razuma.neko3study",
-      "ios_id": ""
+      "ios_id": "id6762985434"
     },
     {
       "name": "サステナブル経営サポート 試験対策 問題集",
       "icon": "🌱",
       "android_package": "jp.razuma.sustainstudy",
-      "ios_id": ""
+      "ios_id": "id6762956603"
     },
     {
       "name": "QC検定® 3級 試験対策 問題集",
