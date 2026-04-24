@@ -61,6 +61,12 @@
       "ios_id": ""
     },
     {
+      "name": "生命保険一般課程 試験対策 問題集",
+      "icon": "🌸",
+      "android_package": "jp.razuma.seihostudy",
+      "ios_id": "id6759522743"
+    },
+    {
       "name": "生命保険専門課程 試験対策 問題集",
       "icon": "🏥",
       "android_package": "jp.razuma.seihosenstudy",
