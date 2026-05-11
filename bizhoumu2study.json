@@ -1,0 +1,70 @@
+{
+  "self": {
+    "name": "ビジネス実務法務検定試験®2級 試験対策 問題集",
+    "icon": "⚖️",
+    "android_package": "jp.razuma.bizhoumu2study",
+    "ios_id": ""
+  },
+  "apps": [
+    {
+      "name": "ビジネス実務法務検定試験®3級 試験対策 問題集",
+      "icon": "📘",
+      "android_package": "jp.razuma.bizhoumu3study",
+      "ios_id": ""
+    },
+    {
+      "name": "通関士 試験対策 問題集",
+      "icon": "📝",
+      "android_package": "jp.razuma.tsukanshistudy",
+      "ios_id": "id6762170228"
+    },
+    {
+      "name": "内部管理責任者 試験対策 問題集",
+      "icon": "🏛️",
+      "android_package": "jp.razuma.naibukansastudy",
+      "ios_id": "id6763018161"
+    },
+    {
+      "name": "金融コンプライアンスオフィサー 試験対策 問題集",
+      "icon": "⚖️",
+      "android_package": "jp.razuma.fco2study",
+      "ios_id": "id6762942606"
+    },
+    {
+      "name": "貸金業務取扱主任者 試験対策 問題集",
+      "icon": "🏦",
+      "android_package": "jp.razuma.kashikinstudy",
+      "ios_id": "id6760295551"
+    },
+    {
+      "name": "相続アドバイザー3級 試験対策 問題集",
+      "icon": "📜",
+      "android_package": "jp.razuma.souzoku3study",
+      "ios_id": "id6760969295"
+    },
+    {
+      "name": "秘書検定2級 試験対策 問題集",
+      "icon": "💼",
+      "android_package": "jp.razuma.hisho2study",
+      "ios_id": "id6760651272"
+    },
+    {
+      "name": "証券外務員1種 試験対策 問題集",
+      "icon": "📈",
+      "android_package": "jp.razuma.gaimuin1study",
+      "ios_id": "id6760966987"
+    },
+    {
+      "name": "サステナブル経営サポート 試験対策 問題集",
+      "icon": "🌱",
+      "android_package": "jp.razuma.sustainstudy",
+      "ios_id": "id6762956603"
+    },
+    {
+      "name": "生成AIパスポート 試験対策 問題集",
+      "icon": "🤖",
+      "android_package": "jp.razuma.aipassstudy",
+      "ios_id": "id6762179023"
+    }
+  ]
+}
