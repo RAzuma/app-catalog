@@ -7,30 +7,6 @@
   },
   "apps": [
     {
-      "name": "ビジネス実務法務検定試験®3級 試験対策 問題集",
-      "icon": "📘",
-      "android_package": "jp.razuma.bizhoumu3study",
-      "ios_id": ""
-    },
-    {
-      "name": "ビジネス実務法務検定試験®2級 試験対策 問題集",
-      "icon": "⚖️",
-      "android_package": "jp.razuma.bizhoumu2study",
-      "ios_id": ""
-    },
-    {
-      "name": "福祉住環境コーディネーター3級 試験対策 問題集",
-      "icon": "🏠",
-      "android_package": "jp.razuma.fukushiju3study",
-      "ios_id": ""
-    },
-    {
-      "name": "メンタルヘルスマネジメント検定III種 試験対策 問題集",
-      "icon": "🧠",
-      "android_package": "jp.razuma.mh3study",
-      "ios_id": ""
-    },
-    {
       "name": "サステナブル経営サポート 試験対策 問題集",
       "icon": "🌱",
       "android_package": "jp.razuma.sustainstudy",
