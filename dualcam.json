@@ -1,0 +1,16 @@
+{
+  "self": {
+    "name": "DualCam",
+    "icon": "📸",
+    "android_package": "jp.razuma.dualcam",
+    "ios_id": ""
+  },
+  "apps": [
+    {
+      "name": "Water Reflection Camera",
+      "icon": "💧",
+      "android_package": "jp.razuma.reflectioncamera",
+      "ios_id": ""
+    }
+  ]
+}
