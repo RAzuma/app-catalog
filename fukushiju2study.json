@@ -1,11 +1,17 @@
 {
   "self": {
-    "name": "福祉住環境コーディネーター3級 試験対策 問題集",
+    "name": "福祉住環境コーディネーター®2級 試験対策 問題集",
     "icon": "🏠",
-    "android_package": "jp.razuma.fukushiju3study",
+    "android_package": "jp.razuma.fukushiju2study",
     "ios_id": ""
   },
   "apps": [
+    {
+      "name": "福祉住環境コーディネーター3級 試験対策 問題集",
+      "icon": "🏠",
+      "android_package": "jp.razuma.fukushiju3study",
+      "ios_id": ""
+    },
     {
       "name": "管理栄養士 試験対策 問題集",
       "icon": "🥗",
@@ -25,28 +31,22 @@
       "ios_id": "id6760639728"
     },
     {
-      "name": "給水装置工事主任技術者 試験対策 問題集",
-      "icon": "🚿",
-      "android_package": "jp.razuma.kyusuistudy",
-      "ios_id": "id6759002078"
-    },
-    {
       "name": "防災士 試験対策 問題集",
       "icon": "🛡️",
       "android_package": "jp.razuma.bousaistudy",
       "ios_id": "id6760714466"
     },
     {
+      "name": "給水装置工事主任技術者 試験対策 問題集",
+      "icon": "🚿",
+      "android_package": "jp.razuma.kyusuistudy",
+      "ios_id": "id6759002078"
+    },
+    {
       "name": "2級造園施工管理技士 試験対策 問題集",
       "icon": "🌿",
       "android_package": "jp.razuma.zouen2study",
       "ios_id": "id6760718732"
-    },
-    {
-      "name": "消防設備士 乙種7類 試験対策 問題集",
-      "icon": "⚡",
-      "android_package": "jp.razuma.shoubouotsu7study",
-      "ios_id": "id6761726042"
     },
     {
       "name": "相続アドバイザー3級 試験対策 問題集",

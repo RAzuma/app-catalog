@@ -55,12 +55,6 @@
       "ios_id": "id6760295551"
     },
     {
-      "name": "メンタルヘルスマネジメント検定III種 試験対策 問題集",
-      "icon": "🧠",
-      "android_package": "jp.razuma.mh3study",
-      "ios_id": ""
-    },
-    {
       "name": "生命保険一般課程 試験対策 問題集",
       "icon": "🌸",
       "android_package": "jp.razuma.seihostudy",
@@ -113,48 +107,6 @@
       "icon": "🤖",
       "android_package": "jp.razuma.aipassstudy",
       "ios_id": "id6762179023"
-    },
-    {
-      "name": "精神保健福祉士 試験対策 問題集",
-      "icon": "🤝",
-      "android_package": "jp.razuma.seishinfukushistudy",
-      "ios_id": ""
-    },
-    {
-      "name": "測量士補 試験対策 問題集",
-      "icon": "📐",
-      "android_package": "jp.razuma.sokuryouhstudy",
-      "ios_id": ""
-    },
-    {
-      "name": "変額保険販売資格 試験対策 問題集",
-      "icon": "💱",
-      "android_package": "jp.razuma.hengakustudy",
-      "ios_id": ""
-    },
-    {
-      "name": "救急救命士 試験対策 問題集",
-      "icon": "🚑",
-      "android_package": "jp.razuma.kyuukyuustudy",
-      "ios_id": ""
-    },
-    {
-      "name": "毒物劇物取扱責任者 試験対策 問題集",
-      "icon": "⚗️",
-      "android_package": "jp.razuma.dokugekistudy",
-      "ios_id": ""
-    },
-    {
-      "name": "公認心理師 試験対策 問題集",
-      "icon": "💭",
-      "android_package": "jp.razuma.shinrishistudy",
-      "ios_id": ""
-    },
-    {
-      "name": "法務3級 銀行業務検定 試験対策 問題集",
-      "icon": "⚖️",
-      "android_package": "jp.razuma.houmu3study",
-      "ios_id": ""
     }
   ]
 }
