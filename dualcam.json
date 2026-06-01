@@ -7,9 +7,63 @@
   },
   "apps": [
     {
+      "name": "Overlay Camera - Photo Blend",
+      "icon": "🖼️",
+      "android_package": "jp.razuma.overlaycamera",
+      "ios_id": ""
+    },
+    {
       "name": "Water Reflection Camera",
       "icon": "💧",
       "android_package": "jp.razuma.reflectioncamera",
+      "ios_id": ""
+    },
+    {
+      "name": "Night vision style camera",
+      "icon": "🌙",
+      "android_package": "jp.razuma.nightvisioncamera",
+      "ios_id": ""
+    },
+    {
+      "name": "Thermography Camera",
+      "icon": "🌡️",
+      "android_package": "jp.razuma.thermographycamera",
+      "ios_id": ""
+    },
+    {
+      "name": "VHS Cam - Retro Video Filter",
+      "icon": "📼",
+      "android_package": "jp.razuma.vhs_camera",
+      "ios_id": ""
+    },
+    {
+      "name": "X-ray Style Camera",
+      "icon": "🦴",
+      "android_package": "jp.razuma.xraycamera",
+      "ios_id": ""
+    },
+    {
+      "name": "Mosaic Camera",
+      "icon": "🔲",
+      "android_package": "jp.razuma.mosaiccamera",
+      "ios_id": ""
+    },
+    {
+      "name": "Sepia Camera",
+      "icon": "🟤",
+      "android_package": "jp.razuma.sepiacamera",
+      "ios_id": ""
+    },
+    {
+      "name": "Black and White Camera",
+      "icon": "🎞️",
+      "android_package": "jp.razuma.blackandwhitecamera",
+      "ios_id": ""
+    },
+    {
+      "name": "Negative image camera",
+      "icon": "🔄",
+      "android_package": "jp.razuma.negativeimagecamera",
       "ios_id": ""
     }
   ]
