@@ -1,0 +1,82 @@
+{
+  "self": {
+    "name": "第二種衛生管理者 試験対策 問題集",
+    "icon": "🩺",
+    "android_package": "jp.razuma.eisei2study",
+    "ios_id": ""
+  },
+  "apps": [
+    {
+      "name": "第一種衛生管理者 試験対策 問題集",
+      "icon": "🦺",
+      "android_package": "jp.razuma.eisei1study",
+      "ios_id": ""
+    },
+    {
+      "name": "二級ボイラー技士 試験対策 問題集",
+      "icon": "🔥",
+      "android_package": "jp.razuma.boilerstudy",
+      "ios_id": "id6760298953"
+    },
+    {
+      "name": "第二種電気工事士 試験対策 問題集",
+      "icon": "⚡",
+      "android_package": "jp.razuma.denko2study",
+      "ios_id": "id6760653775"
+    },
+    {
+      "name": "交通誘導警備業務検定2級 試験対策 問題集",
+      "icon": "🚧",
+      "android_package": "jp.razuma.koukeibi2study",
+      "ios_id": ""
+    },
+    {
+      "name": "救急救命士 試験対策 問題集",
+      "icon": "🚑",
+      "android_package": "jp.razuma.kyuukyuustudy",
+      "ios_id": ""
+    },
+    {
+      "name": "メンタルヘルスマネジメント検定III種 試験対策 問題集",
+      "icon": "🧠",
+      "android_package": "jp.razuma.mh3study",
+      "ios_id": ""
+    },
+    {
+      "name": "登録販売者 試験対策 問題集",
+      "icon": "💊",
+      "android_package": "jp.razuma.touhanstudy",
+      "ios_id": ""
+    },
+    {
+      "name": "管理栄養士 試験対策 問題集",
+      "icon": "📝",
+      "android_package": "jp.razuma.kanrieiyoustudy",
+      "ios_id": "id6762190003"
+    },
+    {
+      "name": "測量士補 試験対策 問題集",
+      "icon": "📐",
+      "android_package": "jp.razuma.sokuryouhstudy",
+      "ios_id": ""
+    },
+    {
+      "name": "毒物劇物取扱責任者 試験対策 問題集",
+      "icon": "⚗️",
+      "android_package": "jp.razuma.dokugekistudy",
+      "ios_id": ""
+    },
+    {
+      "name": "給水装置工事主任技術者 試験対策 問題集",
+      "icon": "🚿",
+      "android_package": "jp.razuma.kyusuistudy",
+      "ios_id": "id6759002078"
+    },
+    {
+      "name": "製菓衛生師 試験対策 問題集",
+      "icon": "🍰",
+      "android_package": "jp.razuma.seikastudy",
+      "ios_id": "id6763000184"
+    }
+  ]
+}

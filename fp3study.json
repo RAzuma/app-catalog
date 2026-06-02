@@ -1,0 +1,94 @@
+{
+  "self": {
+    "name": "FP技能検定3級 試験対策 問題集",
+    "icon": "💰",
+    "android_package": "jp.razuma.fp3study",
+    "ios_id": ""
+  },
+  "apps": [
+    {
+      "name": "財務3級 銀行業務検定 試験対策 問題集",
+      "icon": "📊",
+      "android_package": "jp.razuma.zaimu3study",
+      "ios_id": "id6762174961"
+    },
+    {
+      "name": "法務3級 銀行業務検定 試験対策 問題集",
+      "icon": "⚖️",
+      "android_package": "jp.razuma.houmu3study",
+      "ios_id": ""
+    },
+    {
+      "name": "相続アドバイザー3級 試験対策 問題集",
+      "icon": "📜",
+      "android_package": "jp.razuma.souzoku3study",
+      "ios_id": "id6760969295"
+    },
+    {
+      "name": "貸金業務取扱主任者 試験対策 問題集",
+      "icon": "🏦",
+      "android_package": "jp.razuma.kashikinstudy",
+      "ios_id": "id6760295551"
+    },
+    {
+      "name": "証券外務員一種 試験対策 問題集",
+      "icon": "📈",
+      "android_package": "jp.razuma.gaimuin1study",
+      "ios_id": "id6760966987"
+    },
+    {
+      "name": "証券外務員二種 試験対策 問題集",
+      "icon": "💹",
+      "android_package": "jp.razuma.gaimuin2study",
+      "ios_id": "id6760942112"
+    },
+    {
+      "name": "生命保険一般課程 試験対策 問題集",
+      "icon": "🌸",
+      "android_package": "jp.razuma.seihostudy",
+      "ios_id": "id6759522743"
+    },
+    {
+      "name": "生命保険専門課程 試験対策 問題集",
+      "icon": "🏥",
+      "android_package": "jp.razuma.seihosenstudy",
+      "ios_id": "id6760279665"
+    },
+    {
+      "name": "変額保険販売資格 試験対策 問題集",
+      "icon": "💱",
+      "android_package": "jp.razuma.hengakustudy",
+      "ios_id": ""
+    },
+    {
+      "name": "損害保険募集人 試験対策 問題集",
+      "icon": "🛡",
+      "android_package": "jp.razuma.sonpostudy",
+      "ios_id": "id6760193489"
+    },
+    {
+      "name": "金融コンプライアンスオフィサー 試験対策 問題集",
+      "icon": "⚖️",
+      "android_package": "jp.razuma.fco2study",
+      "ios_id": "id6762942606"
+    },
+    {
+      "name": "内部管理責任者 試験対策 問題集",
+      "icon": "🏛️",
+      "android_package": "jp.razuma.naibukansastudy",
+      "ios_id": "id6763018161"
+    },
+    {
+      "name": "通関士 試験対策 問題集",
+      "icon": "📝",
+      "android_package": "jp.razuma.tsukanshistudy",
+      "ios_id": "id6762170228"
+    },
+    {
+      "name": "ビジネス実務法務検定試験®3級 試験対策 問題集",
+      "icon": "📘",
+      "android_package": "jp.razuma.bizhoumu3study",
+      "ios_id": ""
+    }
+  ]
+}
