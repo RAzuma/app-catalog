@@ -3,7 +3,7 @@
     "name": "第一種衛生管理者 試験対策 問題集",
     "icon": "🦺",
     "android_package": "jp.razuma.eisei1study",
-    "ios_id": ""
+    "ios_id": "id6776183218"
   },
   "apps": [
     {
@@ -28,25 +28,25 @@
       "name": "毒物劇物取扱責任者 試験対策 問題集",
       "icon": "⚗️",
       "android_package": "jp.razuma.dokugekistudy",
-      "ios_id": ""
+      "ios_id": "id6769603389"
     },
     {
       "name": "交通誘導警備業務検定2級 試験対策 問題集",
       "icon": "🚧",
       "android_package": "jp.razuma.koukeibi2study",
-      "ios_id": ""
+      "ios_id": "id6769394393"
     },
     {
       "name": "救急救命士 試験対策 問題集",
       "icon": "🚑",
       "android_package": "jp.razuma.kyuukyuustudy",
-      "ios_id": ""
+      "ios_id": "id6769599129"
     },
     {
       "name": "測量士補 試験対策 問題集",
       "icon": "📐",
       "android_package": "jp.razuma.sokuryouhstudy",
-      "ios_id": ""
+      "ios_id": "id6769437282"
     },
     {
       "name": "1級造園施工管理技士 試験対策 問題集",
