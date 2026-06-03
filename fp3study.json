@@ -3,7 +3,7 @@
     "name": "FP技能検定3級 試験対策 問題集",
     "icon": "💰",
     "android_package": "jp.razuma.fp3study",
-    "ios_id": ""
+    "ios_id": "id6776120226"
   },
   "apps": [
     {
@@ -16,7 +16,7 @@
       "name": "法務3級 銀行業務検定 試験対策 問題集",
       "icon": "⚖️",
       "android_package": "jp.razuma.houmu3study",
-      "ios_id": ""
+      "ios_id": "id6769617740"
     },
     {
       "name": "相続アドバイザー3級 試験対策 問題集",
@@ -58,7 +58,7 @@
       "name": "変額保険販売資格 試験対策 問題集",
       "icon": "💱",
       "android_package": "jp.razuma.hengakustudy",
-      "ios_id": ""
+      "ios_id": "id6769594176"
     },
     {
       "name": "損害保険募集人 試験対策 問題集",
@@ -88,7 +88,7 @@
       "name": "ビジネス実務法務検定試験®3級 試験対策 問題集",
       "icon": "📘",
       "android_package": "jp.razuma.bizhoumu3study",
-      "ios_id": ""
+      "ios_id": "id6769062166"
     }
   ]
 }
