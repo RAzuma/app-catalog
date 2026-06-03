@@ -10,61 +10,61 @@
       "name": "Overlay Camera - Photo Blend",
       "icon": "🖼️",
       "android_package": "jp.razuma.overlaycamera",
-      "ios_id": ""
+      "ios_id": "id6759558148"
     },
     {
       "name": "Water Reflection Camera",
       "icon": "💧",
       "android_package": "jp.razuma.reflectioncamera",
-      "ios_id": ""
+      "ios_id": "id6758033152"
     },
     {
       "name": "Night vision style camera",
       "icon": "🌙",
       "android_package": "jp.razuma.nightvisioncamera",
-      "ios_id": ""
+      "ios_id": "id6749482090"
     },
     {
       "name": "Thermography Camera",
       "icon": "🌡️",
       "android_package": "jp.razuma.thermographycamera",
-      "ios_id": ""
+      "ios_id": "id6505010899"
     },
     {
       "name": "VHS Cam - Retro Video Filter",
       "icon": "📼",
       "android_package": "jp.razuma.vhs_camera",
-      "ios_id": ""
+      "ios_id": "id6755943080"
     },
     {
       "name": "X-ray Style Camera",
       "icon": "🦴",
       "android_package": "jp.razuma.xraycamera",
-      "ios_id": ""
+      "ios_id": "id6756573877"
     },
     {
       "name": "Mosaic Camera",
       "icon": "🔲",
       "android_package": "jp.razuma.mosaiccamera",
-      "ios_id": ""
+      "ios_id": "id6741861983"
     },
     {
       "name": "Sepia Camera",
       "icon": "🟤",
       "android_package": "jp.razuma.sepiacamera",
-      "ios_id": ""
+      "ios_id": "id6741587880"
     },
     {
       "name": "Black and White Camera",
       "icon": "🎞️",
       "android_package": "jp.razuma.blackandwhitecamera",
-      "ios_id": ""
+      "ios_id": "id6511247353"
     },
     {
       "name": "Negative image camera",
       "icon": "🔄",
       "android_package": "jp.razuma.negativeimagecamera",
-      "ios_id": ""
+      "ios_id": "id6514303503"
     }
   ]
 }
