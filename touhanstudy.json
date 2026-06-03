@@ -3,14 +3,14 @@
     "name": "登録販売者 試験対策 問題集",
     "icon": "💊",
     "android_package": "jp.razuma.touhanstudy",
-    "ios_id": ""
+    "ios_id": "id6776094588"
   },
   "apps": [
     {
       "name": "毒物劇物取扱責任者 試験対策 問題集",
       "icon": "⚗️",
       "android_package": "jp.razuma.dokugekistudy",
-      "ios_id": ""
+      "ios_id": "id6769603389"
     },
     {
       "name": "管理栄養士 試験対策 問題集",
@@ -28,19 +28,19 @@
       "name": "救急救命士 試験対策 問題集",
       "icon": "🚑",
       "android_package": "jp.razuma.kyuukyuustudy",
-      "ios_id": ""
+      "ios_id": "id6769599129"
     },
     {
       "name": "公認心理師 試験対策 問題集",
       "icon": "💭",
       "android_package": "jp.razuma.shinrishistudy",
-      "ios_id": ""
+      "ios_id": "id6769607267"
     },
     {
       "name": "精神保健福祉士 試験対策 問題集",
       "icon": "🤝",
       "android_package": "jp.razuma.seishinfukushistudy",
-      "ios_id": ""
+      "ios_id": "id6769413502"
     },
     {
       "name": "メンタルヘルスマネジメント検定III種 試験対策 問題集",
@@ -52,13 +52,13 @@
       "name": "福祉住環境コーディネーター®2級 試験対策 問題集",
       "icon": "🏠",
       "android_package": "jp.razuma.fukushiju2study",
-      "ios_id": ""
+      "ios_id": "id6769253206"
     },
     {
       "name": "福祉住環境コーディネーター3級 試験対策 問題集",
       "icon": "🏠",
       "android_package": "jp.razuma.fukushiju3study",
-      "ios_id": ""
+      "ios_id": "id6769249564"
     }
   ]
 }
