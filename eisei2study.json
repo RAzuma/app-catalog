@@ -3,7 +3,7 @@
     "name": "第二種衛生管理者 試験対策 問題集",
     "icon": "🩺",
     "android_package": "jp.razuma.eisei2study",
-    "ios_id": ""
+    "ios_id": "id6776221215"
   },
   "apps": [
     {
@@ -28,13 +28,13 @@
       "name": "交通誘導警備業務検定2級 試験対策 問題集",
       "icon": "🚧",
       "android_package": "jp.razuma.koukeibi2study",
-      "ios_id": ""
+      "ios_id": "id6769394393"
     },
     {
       "name": "救急救命士 試験対策 問題集",
       "icon": "🚑",
       "android_package": "jp.razuma.kyuukyuustudy",
-      "ios_id": ""
+      "ios_id": "id6769599129"
     },
     {
       "name": "メンタルヘルスマネジメント検定III種 試験対策 問題集",
@@ -46,7 +46,7 @@
       "name": "登録販売者 試験対策 問題集",
       "icon": "💊",
       "android_package": "jp.razuma.touhanstudy",
-      "ios_id": ""
+      "ios_id": "id6776094588"
     },
     {
       "name": "管理栄養士 試験対策 問題集",
@@ -58,13 +58,13 @@
       "name": "測量士補 試験対策 問題集",
       "icon": "📐",
       "android_package": "jp.razuma.sokuryouhstudy",
-      "ios_id": ""
+      "ios_id": "id6769437282"
     },
     {
       "name": "毒物劇物取扱責任者 試験対策 問題集",
       "icon": "⚗️",
       "android_package": "jp.razuma.dokugekistudy",
-      "ios_id": ""
+      "ios_id": "id6769603389"
     },
     {
       "name": "給水装置工事主任技術者 試験対策 問題集",
