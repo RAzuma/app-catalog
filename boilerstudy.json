@@ -53,6 +53,12 @@
       "icon": "🛡️",
       "android_package": "jp.razuma.bousaistudy",
       "ios_id": "id6760714466"
+    },
+    {
+      "name": "危険物取扱者 乙種4類 試験対策 問題集",
+      "icon": "🛢️",
+      "android_package": "jp.razuma.kikenotsu4study",
+      "ios_id": ""
     }
   ]
 }

@@ -1,0 +1,58 @@
+{
+  "self": {
+    "name": "危険物取扱者 乙種4類 試験対策 問題集",
+    "icon": "🛢️",
+    "android_package": "jp.razuma.kikenotsu4study",
+    "ios_id": ""
+  },
+  "apps": [
+    {
+      "name": "消防設備士 乙種4類 試験対策 問題集",
+      "icon": "🔥",
+      "android_package": "jp.razuma.shoubouotsu4study",
+      "ios_id": "id6761720056"
+    },
+    {
+      "name": "消防設備士 甲種4類 試験対策 問題集",
+      "icon": "🔔",
+      "android_package": "jp.razuma.shouboukou4study",
+      "ios_id": "id6761760019"
+    },
+    {
+      "name": "消防設備士 甲種1類 試験対策 問題集",
+      "icon": "💧",
+      "android_package": "jp.razuma.shouboukou1study",
+      "ios_id": "id6761740003"
+    },
+    {
+      "name": "毒物劇物取扱責任者 試験対策 問題集",
+      "icon": "⚗️",
+      "android_package": "jp.razuma.dokugekistudy",
+      "ios_id": ""
+    },
+    {
+      "name": "二級ボイラー技士 試験対策 問題集",
+      "icon": "🔥",
+      "android_package": "jp.razuma.boilerstudy",
+      "ios_id": "id6760298953"
+    },
+    {
+      "name": "給水装置工事主任技術者 試験対策 問題集",
+      "icon": "🚿",
+      "android_package": "jp.razuma.kyusuistudy",
+      "ios_id": "id6759002078"
+    },
+    {
+      "name": "第二種電気工事士 試験対策 問題集",
+      "icon": "⚡",
+      "android_package": "jp.razuma.denko2study",
+      "ios_id": "id6760653775"
+    },
+    {
+      "name": "防災士 試験対策 問題集",
+      "icon": "🛡️",
+      "android_package": "jp.razuma.bousaistudy",
+      "ios_id": "id6760714466"
+    }
+  ]
+}
