@@ -59,6 +59,12 @@
       "icon": "🛢️",
       "android_package": "jp.razuma.kikenotsu4study",
       "ios_id": ""
+    },
+    {
+      "name": "2級建設機械施工管理技士 試験対策 問題集",
+      "icon": "🚜",
+      "android_package": "jp.razuma.kenki2study",
+      "ios_id": ""
     }
   ]
 }

@@ -89,6 +89,12 @@
       "icon": "🛢️",
       "android_package": "jp.razuma.kikenotsu4study",
       "ios_id": ""
+    },
+    {
+      "name": "危険物取扱者 甲種 試験対策 問題集",
+      "icon": "🧪",
+      "android_package": "jp.razuma.kikenkoustudy",
+      "ios_id": ""
     }
   ]
 }
