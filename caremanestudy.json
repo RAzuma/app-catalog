@@ -1,0 +1,58 @@
+{
+  "self": {
+    "name": "ケアマネジャー（介護支援専門員）試験対策 問題集",
+    "icon": "📋",
+    "android_package": "jp.razuma.caremanestudy",
+    "ios_id": ""
+  },
+  "apps": [
+    {
+      "name": "介護福祉士 試験対策 問題集",
+      "icon": "🤲",
+      "android_package": "jp.razuma.kaigostudy",
+      "ios_id": "id6776127978"
+    },
+    {
+      "name": "精神保健福祉士 試験対策 問題集",
+      "icon": "🤝",
+      "android_package": "jp.razuma.seishinfukushistudy",
+      "ios_id": ""
+    },
+    {
+      "name": "福祉住環境コーディネーター®2級 試験対策 問題集",
+      "icon": "🏠",
+      "android_package": "jp.razuma.fukushiju2study",
+      "ios_id": ""
+    },
+    {
+      "name": "公認心理師 試験対策 問題集",
+      "icon": "💭",
+      "android_package": "jp.razuma.shinrishistudy",
+      "ios_id": ""
+    },
+    {
+      "name": "救急救命士 試験対策 問題集",
+      "icon": "🚑",
+      "android_package": "jp.razuma.kyuukyuustudy",
+      "ios_id": ""
+    },
+    {
+      "name": "管理栄養士 試験対策 問題集",
+      "icon": "📝",
+      "android_package": "jp.razuma.kanrieiyoustudy",
+      "ios_id": "id6762190003"
+    },
+    {
+      "name": "愛玩動物看護師 試験対策 問題集",
+      "icon": "🐾",
+      "android_package": "jp.razuma.aigankangostudy",
+      "ios_id": ""
+    },
+    {
+      "name": "メンタルヘルスマネジメント検定III種 試験対策 問題集",
+      "icon": "🧠",
+      "android_package": "jp.razuma.mh3study",
+      "ios_id": ""
+    }
+  ]
+}
