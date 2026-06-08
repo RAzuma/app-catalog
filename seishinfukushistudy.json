@@ -107,6 +107,12 @@
       "icon": "🤖",
       "android_package": "jp.razuma.aipassstudy",
       "ios_id": "id6762179023"
+    },
+    {
+      "name": "愛玩動物看護師 試験対策 問題集",
+      "icon": "🐾",
+      "android_package": "jp.razuma.aigankangostudy",
+      "ios_id": ""
     }
   ]
 }
