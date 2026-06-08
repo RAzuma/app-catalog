@@ -53,6 +53,12 @@
       "icon": "📝",
       "android_package": "jp.razuma.kanrieiyoustudy",
       "ios_id": "id6762190003"
+    },
+    {
+      "name": "基本情報技術者 試験対策 問題集",
+      "icon": "🧑‍💻",
+      "android_package": "jp.razuma.kihonjouhoustudy",
+      "ios_id": ""
     }
   ]
 }

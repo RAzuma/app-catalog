@@ -101,6 +101,12 @@
       "icon": "🌿",
       "android_package": "jp.razuma.zouen2study",
       "ios_id": "id6760718732"
+    },
+    {
+      "name": "基本情報技術者 試験対策 問題集",
+      "icon": "🧑‍💻",
+      "android_package": "jp.razuma.kihonjouhoustudy",
+      "ios_id": ""
     }
   ]
 }
