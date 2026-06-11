@@ -1,0 +1,70 @@
+{
+  "self": {
+    "name": "おえかき帳",
+    "icon": "🎨",
+    "android_package": "jp.razuma.drawingbook",
+    "ios_id": ""
+  },
+  "apps": [
+    {
+      "name": "シンプルホワイトボード",
+      "icon": "🖊️",
+      "android_package": "jp.razuma.whiteboard",
+      "ios_id": ""
+    },
+    {
+      "name": "シンプル黒板",
+      "icon": "🟩",
+      "android_package": "jp.razuma.blackboard",
+      "ios_id": ""
+    },
+    {
+      "name": "黒板風おえかき帳",
+      "icon": "🖍️",
+      "android_package": "jp.razuma.drawingbook.blackboard",
+      "ios_id": ""
+    },
+    {
+      "name": "画像に絵がかける",
+      "icon": "🖼️",
+      "android_package": "jp.razuma.draw.on.pictures",
+      "ios_id": ""
+    },
+    {
+      "name": "鉛筆スケッチ風加工",
+      "icon": "✏️",
+      "android_package": "jp.razuma.sketchphoto",
+      "ios_id": ""
+    },
+    {
+      "name": "画像の色反転",
+      "icon": "🔄",
+      "android_package": "jp.razuma.negativeimage",
+      "ios_id": ""
+    },
+    {
+      "name": "レントゲン風カメラ",
+      "icon": "🦴",
+      "android_package": "jp.razuma.xraycamera",
+      "ios_id": "id6756573877"
+    },
+    {
+      "name": "サーモグラフィーカメラ",
+      "icon": "🌡️",
+      "android_package": "jp.razuma.thermographycamera",
+      "ios_id": "id6505010899"
+    },
+    {
+      "name": "あみだくじ",
+      "icon": "🪜",
+      "android_package": "jp.razuma.ghostleg",
+      "ios_id": ""
+    },
+    {
+      "name": "音の逆再生",
+      "icon": "⏪",
+      "android_package": "jp.razuma.reversevoice",
+      "ios_id": ""
+    }
+  ]
+}
