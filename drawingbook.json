@@ -31,12 +31,6 @@
       "ios_id": ""
     },
     {
-      "name": "鉛筆スケッチ風加工",
-      "icon": "✏️",
-      "android_package": "jp.razuma.sketchphoto",
-      "ios_id": ""
-    },
-    {
       "name": "画像の色反転",
       "icon": "🔄",
       "android_package": "jp.razuma.negativeimage",
@@ -64,6 +58,18 @@
       "name": "音の逆再生",
       "icon": "⏪",
       "android_package": "jp.razuma.reversevoice",
+      "ios_id": ""
+    },
+    {
+      "name": "クイズの効果音",
+      "icon": "🔔",
+      "android_package": "jp.razuma.quizse",
+      "ios_id": ""
+    },
+    {
+      "name": "色んな呼び出し音",
+      "icon": "🛎️",
+      "android_package": "jp.razuma.variousringtones",
       "ios_id": ""
     }
   ]
