@@ -1,0 +1,116 @@
+{
+  "self": {
+    "name": "Negative Image",
+    "name_ja": "画像の色反転",
+    "icon": "🔄",
+    "android_package": "jp.razuma.negativeimage",
+    "ios_id": ""
+  },
+  "apps": [
+    {
+      "name": "Negative image camera",
+      "name_ja": "色反転カメラ",
+      "icon": "🔄",
+      "android_package": "jp.razuma.negativeimagecamera",
+      "ios_id": "id6514303503"
+    },
+    {
+      "name": "Black and White Photo",
+      "name_ja": "白黒写真変換",
+      "icon": "🎞️",
+      "android_package": "jp.razuma.blackandwhitephoto",
+      "ios_id": ""
+    },
+    {
+      "name": "Sepia Photo",
+      "name_ja": "セピア写真変換",
+      "icon": "🟤",
+      "android_package": "jp.razuma.sepiaphoto",
+      "ios_id": ""
+    },
+    {
+      "name": "Photo Color Filter",
+      "name_ja": "カラーフィルター加工写真",
+      "icon": "🌈",
+      "android_package": "jp.razuma.photocolorfilter",
+      "ios_id": ""
+    },
+    {
+      "name": "Pixel Image Converter",
+      "name_ja": "ピクセル画像変換",
+      "icon": "🔲",
+      "android_package": "jp.razuma.mosaicphotosimple",
+      "ios_id": ""
+    },
+    {
+      "name": "Watercolor Photo Processing",
+      "name_ja": "水彩画写真加工",
+      "icon": "🎨",
+      "android_package": "jp.razuma.watercolorphoto",
+      "ios_id": ""
+    },
+    {
+      "name": "Pencil Sketch Image",
+      "name_ja": "鉛筆スケッチ画像変換",
+      "icon": "✏️",
+      "android_package": "jp.razuma.sketchphoto",
+      "ios_id": ""
+    },
+    {
+      "name": "Illustration Photo - Anime Art",
+      "name_ja": "イラスト風写真加工 - アニメ・漫画風変換",
+      "icon": "🖌️",
+      "android_package": "jp.razuma.posterizephoto",
+      "ios_id": ""
+    },
+    {
+      "name": "X-ray Style Photo",
+      "name_ja": "レントゲン写真変換",
+      "icon": "🩻",
+      "android_package": "jp.razuma.xrayphoto",
+      "ios_id": ""
+    },
+    {
+      "name": "Thermography Photo",
+      "name_ja": "サーモグラフィー写真変換",
+      "icon": "🌡️",
+      "android_package": "jp.razuma.thermographyphoto",
+      "ios_id": ""
+    },
+    {
+      "name": "Night Vision Photo Transform",
+      "name_ja": "ナイトビジョン写真変換",
+      "icon": "🌙",
+      "android_package": "jp.razuma.nightvisionphoto",
+      "ios_id": ""
+    },
+    {
+      "name": "X-ray Style Camera",
+      "name_ja": "X線カメラ - レントゲン風フィルター",
+      "icon": "🦴",
+      "android_package": "jp.razuma.xraycamera",
+      "ios_id": "id6756573877"
+    },
+    {
+      "name": "Thermography Camera",
+      "name_ja": "サーモグラフィーカメラ",
+      "icon": "🔥",
+      "android_package": "jp.razuma.thermographycamera",
+      "ios_id": "id6505010899"
+    },
+    {
+      "name": "Mosaic Camera",
+      "name_ja": "モザイクカメラ",
+      "icon": "🧩",
+      "android_package": "jp.razuma.mosaiccamera",
+      "ios_id": "id6741861983"
+    },
+    {
+      "name": "Sepia Camera",
+      "name_ja": "セピアカメラ",
+      "icon": "🟫",
+      "android_package": "jp.razuma.sepiacamera",
+      "ios_id": "id6741587880"
+    }
+  ]
+}
