@@ -1,0 +1,88 @@
+{
+  "self": {
+    "name": "Simple blackboard",
+    "name_ja": "シンプル黒板",
+    "icon": "🟩",
+    "android_package": "jp.razuma.blackboard",
+    "ios_id": ""
+  },
+  "apps": [
+    {
+      "name": "Simple Whiteboard",
+      "name_ja": "シンプルホワイトボード",
+      "icon": "🖊️",
+      "android_package": "jp.razuma.whiteboard",
+      "ios_id": ""
+    },
+    {
+      "name": "Drawing Pad",
+      "name_ja": "おえかき帳",
+      "icon": "🎨",
+      "android_package": "jp.razuma.drawingbook",
+      "ios_id": ""
+    },
+    {
+      "name": "Drawing on Blackboard",
+      "name_ja": "黒板風おえかき帳",
+      "icon": "🖍️",
+      "android_package": "jp.razuma.drawingbook.blackboard",
+      "ios_id": ""
+    },
+    {
+      "name": "Draw on Pictures - Simple",
+      "name_ja": "画像に絵がかける",
+      "icon": "🖼️",
+      "android_package": "jp.razuma.draw.on.pictures",
+      "ios_id": ""
+    },
+    {
+      "name": "Negative Image",
+      "name_ja": "画像の色反転",
+      "icon": "🔄",
+      "android_package": "jp.razuma.negativeimage",
+      "ios_id": ""
+    },
+    {
+      "name": "X-ray Style Camera",
+      "name_ja": "レントゲン風カメラ",
+      "icon": "🦴",
+      "android_package": "jp.razuma.xraycamera",
+      "ios_id": "id6756573877"
+    },
+    {
+      "name": "Thermography Camera",
+      "name_ja": "サーモグラフィーカメラ",
+      "icon": "🌡️",
+      "android_package": "jp.razuma.thermographycamera",
+      "ios_id": "id6505010899"
+    },
+    {
+      "name": "Ghost Leg",
+      "name_ja": "あみだくじ",
+      "icon": "🪜",
+      "android_package": "jp.razuma.ghostleg",
+      "ios_id": ""
+    },
+    {
+      "name": "Simple Reverse Voice",
+      "name_ja": "音の逆再生",
+      "icon": "⏪",
+      "android_package": "jp.razuma.reversevoice",
+      "ios_id": ""
+    },
+    {
+      "name": "Quiz Sound Effect",
+      "name_ja": "クイズの効果音",
+      "icon": "🔔",
+      "android_package": "jp.razuma.quizse",
+      "ios_id": ""
+    },
+    {
+      "name": "Various ringtones",
+      "name_ja": "色んな呼び出し音",
+      "icon": "🛎️",
+      "android_package": "jp.razuma.variousringtones",
+      "ios_id": ""
+    }
+  ]
+}
