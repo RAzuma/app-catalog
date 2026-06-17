@@ -1,0 +1,81 @@
+{
+  "self": {
+    "name": "Thermography Camera",
+    "name_ja": "サーモグラフィーカメラ",
+    "icon": "🌡️",
+    "android_package": "jp.razuma.thermographycamera",
+    "ios_id": "id6505010899"
+  },
+  "apps": [
+    {
+      "name": "DualCam",
+      "name_ja": "デュアルカメラ",
+      "icon": "📸",
+      "android_package": "jp.razuma.dualcam",
+      "ios_id": "id6776261972"
+    },
+    {
+      "name": "Overlay Camera - Photo Blend",
+      "name_ja": "オーバーレイカメラ - 写真合成",
+      "icon": "🖼️",
+      "android_package": "jp.razuma.overlaycamera",
+      "ios_id": ""
+    },
+    {
+      "name": "Water Reflection Camera",
+      "name_ja": "水面反射カメラ",
+      "icon": "💧",
+      "android_package": "jp.razuma.reflectioncamera",
+      "ios_id": "id6758033152"
+    },
+    {
+      "name": "Night vision style camera",
+      "name_ja": "ナイトビジョンカメラ",
+      "icon": "🌙",
+      "android_package": "jp.razuma.nightvisioncamera",
+      "ios_id": "id6749482090"
+    },
+    {
+      "name": "VHS Cam - Retro Video Filter",
+      "name_ja": "VHSカメラ - レトロ動画フィルター",
+      "icon": "📼",
+      "android_package": "jp.razuma.vhs_camera",
+      "ios_id": "id6755943080"
+    },
+    {
+      "name": "X-ray Style Camera",
+      "name_ja": "X線カメラ - レントゲン風フィルター",
+      "icon": "🦴",
+      "android_package": "jp.razuma.xraycamera",
+      "ios_id": "id6756573877"
+    },
+    {
+      "name": "Mosaic Camera",
+      "name_ja": "モザイクカメラ",
+      "icon": "🧩",
+      "android_package": "jp.razuma.mosaiccamera",
+      "ios_id": "id6741861983"
+    },
+    {
+      "name": "Sepia Camera",
+      "name_ja": "セピアカメラ",
+      "icon": "🟫",
+      "android_package": "jp.razuma.sepiacamera",
+      "ios_id": "id6741587880"
+    },
+    {
+      "name": "Black and White Camera",
+      "name_ja": "白黒カメラ",
+      "icon": "🎞️",
+      "android_package": "jp.razuma.blackandwhitecamera",
+      "ios_id": "id6511247353"
+    },
+    {
+      "name": "Negative image camera",
+      "name_ja": "色反転カメラ",
+      "icon": "🔄",
+      "android_package": "jp.razuma.negativeimagecamera",
+      "ios_id": "id6514303503"
+    }
+  ]
+}
