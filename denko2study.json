@@ -7,6 +7,12 @@
   },
   "apps": [
     {
+      "name": "電気工事施工管理技士1級 試験対策 問題集",
+      "icon": "⚡",
+      "android_package": "jp.razuma.denkiseko1study",
+      "ios_id": ""
+    },
+    {
       "name": "二級ボイラー技士 試験対策 問題集",
       "icon": "🔥",
       "android_package": "jp.razuma.boilerstudy",
