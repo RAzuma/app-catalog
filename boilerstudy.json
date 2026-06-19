@@ -7,6 +7,12 @@
   },
   "apps": [
     {
+      "name": "第三種冷凍機械責任者 試験対策 問題集",
+      "icon": "❄️",
+      "android_package": "jp.razuma.reitou3study",
+      "ios_id": ""
+    },
+    {
       "name": "給水装置工事主任技術者 試験対策 問題集",
       "icon": "🚿",
       "android_package": "jp.razuma.kyusuistudy",
