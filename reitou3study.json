@@ -7,6 +7,12 @@
   },
   "apps": [
     {
+      "name": "第三種電気主任技術者 試験対策 問題集",
+      "icon": "⚡",
+      "android_package": "jp.razuma.denken3study",
+      "ios_id": ""
+    },
+    {
       "name": "第二種電気工事士 試験対策 問題集",
       "icon": "⚡",
       "android_package": "jp.razuma.denko2study",
