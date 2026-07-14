@@ -3,7 +3,7 @@
     "name": "測量士補 試験対策 問題集",
     "icon": "📐",
     "android_package": "jp.razuma.sokuryouhstudy",
-    "ios_id": ""
+    "ios_id": "id6769437282"
   },
   "apps": [
     {
@@ -118,43 +118,43 @@
       "name": "精神保健福祉士 試験対策 問題集",
       "icon": "🤝",
       "android_package": "jp.razuma.seishinfukushistudy",
-      "ios_id": ""
+      "ios_id": "id6769413502"
     },
     {
       "name": "ITパスポート 試験対策 問題集",
       "icon": "💻",
       "android_package": "jp.razuma.itpassstudy",
-      "ios_id": ""
+      "ios_id": "id6769422097"
     },
     {
       "name": "変額保険販売資格 試験対策 問題集",
       "icon": "💱",
       "android_package": "jp.razuma.hengakustudy",
-      "ios_id": ""
+      "ios_id": "id6769594176"
     },
     {
       "name": "救急救命士 試験対策 問題集",
       "icon": "🚑",
       "android_package": "jp.razuma.kyuukyuustudy",
-      "ios_id": ""
+      "ios_id": "id6769599129"
     },
     {
       "name": "毒物劇物取扱責任者 試験対策 問題集",
       "icon": "⚗️",
       "android_package": "jp.razuma.dokugekistudy",
-      "ios_id": ""
+      "ios_id": "id6769603389"
     },
     {
       "name": "公認心理師 試験対策 問題集",
       "icon": "💭",
       "android_package": "jp.razuma.shinrishistudy",
-      "ios_id": ""
+      "ios_id": "id6769607267"
     },
     {
       "name": "法務3級 銀行業務検定 試験対策 問題集",
       "icon": "⚖️",
       "android_package": "jp.razuma.houmu3study",
-      "ios_id": ""
+      "ios_id": "id6769617740"
     },
     {
       "name": "2級建設機械施工管理技士 試験対策 問題集",

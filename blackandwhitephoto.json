@@ -4,7 +4,7 @@
     "name_ja": "白黒写真変換",
     "icon": "🎞️",
     "android_package": "jp.razuma.blackandwhitephoto",
-    "ios_id": ""
+    "ios_id": "id1663148847"
   },
   "apps": [
     {
@@ -12,7 +12,7 @@
       "name_ja": "画像の色反転",
       "icon": "🔄",
       "android_package": "jp.razuma.negativeimage",
-      "ios_id": ""
+      "ios_id": "id6444569227"
     },
     {
       "name": "Negative image camera",
@@ -26,63 +26,63 @@
       "name_ja": "セピア写真変換",
       "icon": "🟤",
       "android_package": "jp.razuma.sepiaphoto",
-      "ios_id": ""
+      "ios_id": "id6741477711"
     },
     {
       "name": "Photo Color Filter",
       "name_ja": "カラーフィルター加工写真",
       "icon": "🌈",
       "android_package": "jp.razuma.photocolorfilter",
-      "ios_id": ""
+      "ios_id": "id6514320971"
     },
     {
       "name": "Pixel Image Converter",
       "name_ja": "ピクセル画像変換",
       "icon": "🔲",
       "android_package": "jp.razuma.mosaicphotosimple",
-      "ios_id": ""
+      "ios_id": "id6741770057"
     },
     {
       "name": "Watercolor Photo Processing",
       "name_ja": "水彩画写真加工",
       "icon": "🎨",
       "android_package": "jp.razuma.watercolorphoto",
-      "ios_id": ""
+      "ios_id": "id6445884413"
     },
     {
       "name": "Pencil Sketch Image",
       "name_ja": "鉛筆スケッチ画像変換",
       "icon": "✏️",
       "android_package": "jp.razuma.sketchphoto",
-      "ios_id": ""
+      "ios_id": "id6445859102"
     },
     {
       "name": "Illustration Photo - Anime Art",
       "name_ja": "イラスト風写真加工 - アニメ・漫画風変換",
       "icon": "🖌️",
       "android_package": "jp.razuma.posterizephoto",
-      "ios_id": ""
+      "ios_id": "id6754151559"
     },
     {
       "name": "X-ray Style Photo",
       "name_ja": "レントゲン写真変換",
       "icon": "🩻",
       "android_package": "jp.razuma.xrayphoto",
-      "ios_id": ""
+      "ios_id": "id6756613640"
     },
     {
       "name": "Thermography Photo",
       "name_ja": "サーモグラフィー写真変換",
       "icon": "🌡️",
       "android_package": "jp.razuma.thermographyphoto",
-      "ios_id": ""
+      "ios_id": "id6503634118"
     },
     {
       "name": "Night Vision Photo Transform",
       "name_ja": "ナイトビジョン写真変換",
       "icon": "🌙",
       "android_package": "jp.razuma.nightvisionphoto",
-      "ios_id": ""
+      "ios_id": "id6749543381"
     },
     {
       "name": "X-ray Style Camera",

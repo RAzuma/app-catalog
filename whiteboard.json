@@ -4,7 +4,7 @@
     "name_ja": "シンプルホワイトボード",
     "icon": "🖊️",
     "android_package": "jp.razuma.whiteboard",
-    "ios_id": ""
+    "ios_id": "id1599938892"
   },
   "apps": [
     {
@@ -12,35 +12,35 @@
       "name_ja": "おえかき帳",
       "icon": "🎨",
       "android_package": "jp.razuma.drawingbook",
-      "ios_id": ""
+      "ios_id": "id1599866010"
     },
     {
       "name": "Simple blackboard",
       "name_ja": "シンプル黒板",
       "icon": "🟩",
       "android_package": "jp.razuma.blackboard",
-      "ios_id": ""
+      "ios_id": "id1600026235"
     },
     {
       "name": "Drawing on Blackboard",
       "name_ja": "黒板風おえかき帳",
       "icon": "🖍️",
       "android_package": "jp.razuma.drawingbook.blackboard",
-      "ios_id": ""
+      "ios_id": "id1600254502"
     },
     {
       "name": "Draw on Pictures - Simple",
       "name_ja": "画像に絵がかける",
       "icon": "🖼️",
       "android_package": "jp.razuma.draw.on.pictures",
-      "ios_id": ""
+      "ios_id": "id1623365600"
     },
     {
       "name": "Negative Image",
       "name_ja": "画像の色反転",
       "icon": "🔄",
       "android_package": "jp.razuma.negativeimage",
-      "ios_id": ""
+      "ios_id": "id6444569227"
     },
     {
       "name": "X-ray Style Camera",
@@ -61,28 +61,28 @@
       "name_ja": "あみだくじ",
       "icon": "🪜",
       "android_package": "jp.razuma.ghostleg",
-      "ios_id": ""
+      "ios_id": "id1612595162"
     },
     {
       "name": "Simple Reverse Voice",
       "name_ja": "音の逆再生",
       "icon": "⏪",
       "android_package": "jp.razuma.reversevoice",
-      "ios_id": ""
+      "ios_id": "id6444589890"
     },
     {
       "name": "Quiz Sound Effect",
       "name_ja": "クイズの効果音",
       "icon": "🔔",
       "android_package": "jp.razuma.quizse",
-      "ios_id": ""
+      "ios_id": "id1601668405"
     },
     {
       "name": "Various ringtones",
       "name_ja": "色んな呼び出し音",
       "icon": "🛎️",
       "android_package": "jp.razuma.variousringtones",
-      "ios_id": ""
+      "ios_id": "id1601080782"
     }
   ]
 }
