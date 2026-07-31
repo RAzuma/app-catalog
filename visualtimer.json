@@ -1,0 +1,81 @@
+{
+  "self": {
+    "name": "Visual Timer",
+    "name_ja": "ビジュアルタイマー",
+    "icon": "⏲️",
+    "android_package": "",
+    "ios_id": ""
+  },
+  "apps": [
+    {
+      "name": "Big Timer - Simple",
+      "name_ja": "大きいタイマー",
+      "icon": "⏱️",
+      "android_package": "jp.razuma.big.timer",
+      "ios_id": "id1619061460"
+    },
+    {
+      "name": "Simple Whiteboard",
+      "name_ja": "シンプルホワイトボード",
+      "icon": "🖊️",
+      "android_package": "jp.razuma.whiteboard",
+      "ios_id": "id1599938892"
+    },
+    {
+      "name": "Simple blackboard",
+      "name_ja": "シンプル黒板",
+      "icon": "🟩",
+      "android_package": "jp.razuma.blackboard",
+      "ios_id": "id1600026235"
+    },
+    {
+      "name": "Drawing Pad",
+      "name_ja": "おえかき帳",
+      "icon": "🎨",
+      "android_package": "jp.razuma.drawingbook",
+      "ios_id": "id1599866010"
+    },
+    {
+      "name": "Drawing on Blackboard",
+      "name_ja": "黒板風おえかき帳",
+      "icon": "🖍️",
+      "android_package": "jp.razuma.drawingbook.blackboard",
+      "ios_id": "id1600254502"
+    },
+    {
+      "name": "Draw on Pictures - Simple",
+      "name_ja": "画像に絵がかける",
+      "icon": "🖼️",
+      "android_package": "jp.razuma.draw.on.pictures",
+      "ios_id": "id1623365600"
+    },
+    {
+      "name": "Ghost Leg",
+      "name_ja": "あみだくじ",
+      "icon": "🪜",
+      "android_package": "jp.razuma.ghostleg",
+      "ios_id": "id1612595162"
+    },
+    {
+      "name": "Quiz Sound Effect",
+      "name_ja": "クイズの効果音",
+      "icon": "🔔",
+      "android_package": "jp.razuma.quizse",
+      "ios_id": "id1601668405"
+    },
+    {
+      "name": "Various ringtones",
+      "name_ja": "色んな呼び出し音",
+      "icon": "🛎️",
+      "android_package": "jp.razuma.variousringtones",
+      "ios_id": "id1601080782"
+    },
+    {
+      "name": "Simple Reverse Voice",
+      "name_ja": "音の逆再生",
+      "icon": "⏪",
+      "android_package": "jp.razuma.reversevoice",
+      "ios_id": "id6444589890"
+    }
+  ]
+}
