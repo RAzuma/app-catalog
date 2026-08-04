@@ -3,7 +3,7 @@
     "name": "Visual Timer",
     "name_ja": "ビジュアルタイマー",
     "icon": "⏲️",
-    "android_package": "",
+    "android_package": "jp.razuma.visualtimer",
     "ios_id": ""
   },
   "apps": [
