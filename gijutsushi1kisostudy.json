@@ -1,0 +1,70 @@
+{
+  "self": {
+    "name": "技術士 一次試験 基礎・適性 試験対策 問題集",
+    "icon": "⚙️",
+    "android_package": "jp.razuma.gijutsushi1kisostudy",
+    "ios_id": ""
+  },
+  "apps": [
+    {
+      "name": "第三種電気主任技術者 試験対策 問題集",
+      "icon": "⚡",
+      "android_package": "jp.razuma.denken3study",
+      "ios_id": "id6782580983"
+    },
+    {
+      "name": "基本情報技術者 試験対策 問題集",
+      "icon": "🧑‍💻",
+      "android_package": "jp.razuma.kihonjouhoustudy",
+      "ios_id": "id6782357919"
+    },
+    {
+      "name": "測量士補 試験対策 問題集",
+      "icon": "📐",
+      "android_package": "jp.razuma.sokuryouhstudy",
+      "ios_id": "id6769437282"
+    },
+    {
+      "name": "QC検定® 2級 試験対策 問題集",
+      "icon": "📈",
+      "android_package": "jp.razuma.qc2study",
+      "ios_id": "id6761119279"
+    },
+    {
+      "name": "危険物取扱者 甲種 試験対策 問題集",
+      "icon": "🧪",
+      "android_package": "jp.razuma.kikenkoustudy",
+      "ios_id": "id6782110735"
+    },
+    {
+      "name": "第三種冷凍機械責任者 試験対策 問題集",
+      "icon": "❄️",
+      "android_package": "jp.razuma.reitou3study",
+      "ios_id": "id6782385410"
+    },
+    {
+      "name": "二級ボイラー技士 試験対策 問題集",
+      "icon": "🔥",
+      "android_package": "jp.razuma.boilerstudy",
+      "ios_id": "id6760298953"
+    },
+    {
+      "name": "eco検定® 試験対策 問題集",
+      "icon": "🌱",
+      "android_package": "jp.razuma.ecostudy",
+      "ios_id": "id6769259571"
+    },
+    {
+      "name": "2級建設機械施工管理技士 試験対策 問題集",
+      "icon": "🚜",
+      "android_package": "jp.razuma.kenki2study",
+      "ios_id": "id6782235202"
+    },
+    {
+      "name": "第一種衛生管理者 試験対策 問題集",
+      "icon": "🦺",
+      "android_package": "jp.razuma.eisei1study",
+      "ios_id": "id6776183218"
+    }
+  ]
+}
