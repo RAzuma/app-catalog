@@ -1,26 +1,12 @@
 {
   "self": {
-    "name": "Negative image camera",
-    "name_ja": "色反転カメラ",
-    "icon": "🔄",
-    "android_package": "jp.razuma.negativeimagecamera",
-    "ios_id": "id6514303503"
+    "name": "Timestamp Camera: Photo Stamp",
+    "name_ja": "タイムスタンプカメラ - 写真に日付を焼き込み",
+    "icon": "📅",
+    "android_package": "jp.razuma.timestampcamera",
+    "ios_id": ""
   },
   "apps": [
-    {
-      "name": "Timestamp Camera: Photo Stamp",
-      "name_ja": "タイムスタンプカメラ - 写真に日付を焼き込み",
-      "icon": "📅",
-      "android_package": "jp.razuma.timestampcamera",
-      "ios_id": ""
-    },
-    {
-      "name": "Thermography Camera",
-      "name_ja": "サーモグラフィーカメラ",
-      "icon": "🌡️",
-      "android_package": "jp.razuma.thermographycamera",
-      "ios_id": "id6505010899"
-    },
     {
       "name": "DualCam",
       "name_ja": "デュアルカメラ",
@@ -34,6 +20,13 @@
       "icon": "🖼️",
       "android_package": "jp.razuma.overlaycamera",
       "ios_id": "id6759558148"
+    },
+    {
+      "name": "X-ray Style Camera",
+      "name_ja": "X線カメラ - レントゲン風フィルター",
+      "icon": "🦴",
+      "android_package": "jp.razuma.xraycamera",
+      "ios_id": "id6756573877"
     },
     {
       "name": "Water Reflection Camera",
@@ -57,11 +50,11 @@
       "ios_id": "id6755943080"
     },
     {
-      "name": "X-ray Style Camera",
-      "name_ja": "X線カメラ - レントゲン風フィルター",
-      "icon": "🦴",
-      "android_package": "jp.razuma.xraycamera",
-      "ios_id": "id6756573877"
+      "name": "Thermography Camera",
+      "name_ja": "サーモグラフィーカメラ",
+      "icon": "🌡️",
+      "android_package": "jp.razuma.thermographycamera",
+      "ios_id": "id6505010899"
     },
     {
       "name": "Mosaic Camera",
@@ -83,6 +76,13 @@
       "icon": "🎞️",
       "android_package": "jp.razuma.blackandwhitecamera",
       "ios_id": "id6511247353"
+    },
+    {
+      "name": "Negative image camera",
+      "name_ja": "色反転カメラ",
+      "icon": "🔄",
+      "android_package": "jp.razuma.negativeimagecamera",
+      "ios_id": "id6514303503"
     }
   ]
 }

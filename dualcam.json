@@ -7,6 +7,13 @@
   },
   "apps": [
     {
+      "name": "Timestamp Camera: Photo Stamp",
+      "name_ja": "タイムスタンプカメラ - 写真に日付を焼き込み",
+      "icon": "📅",
+      "android_package": "jp.razuma.timestampcamera",
+      "ios_id": ""
+    },
+    {
       "name": "Overlay Camera - Photo Blend",
       "icon": "🖼️",
       "android_package": "jp.razuma.overlaycamera",
