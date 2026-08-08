@@ -16,30 +16,35 @@
     },
     {
       "name": "DualCam",
+      "name_ja": "デュアルカメラ",
       "icon": "📸",
       "android_package": "jp.razuma.dualcam",
       "ios_id": "id6776261972"
     },
     {
       "name": "Overlay Camera - Photo Blend",
+      "name_ja": "オーバーレイカメラ - 写真合成",
       "icon": "🖼️",
       "android_package": "jp.razuma.overlaycamera",
       "ios_id": "id6759558148"
     },
     {
       "name": "Water Reflection Camera",
+      "name_ja": "水面反射カメラ",
       "icon": "💧",
       "android_package": "jp.razuma.reflectioncamera",
       "ios_id": "id6758033152"
     },
     {
       "name": "Night vision style camera",
+      "name_ja": "ナイトビジョンカメラ",
       "icon": "🌙",
       "android_package": "jp.razuma.nightvisioncamera",
       "ios_id": "id6749482090"
     },
     {
       "name": "VHS Cam - Retro Video Filter",
+      "name_ja": "VHSカメラ - レトロ動画フィルター",
       "icon": "📼",
       "android_package": "jp.razuma.vhs_camera",
       "ios_id": "id6755943080"
@@ -74,6 +79,7 @@
     },
     {
       "name": "Black and White Camera",
+      "name_ja": "白黒カメラ",
       "icon": "🎞️",
       "android_package": "jp.razuma.blackandwhitecamera",
       "ios_id": "id6511247353"
