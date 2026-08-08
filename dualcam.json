@@ -7,6 +7,13 @@
   },
   "apps": [
     {
+      "name": "Low Quality Camera: Tiny Files",
+      "name_ja": "低画質カメラ - 写真と動画を軽く小さく",
+      "icon": "🪶",
+      "android_package": "jp.razuma.lowqualitycamera",
+      "ios_id": ""
+    },
+    {
       "name": "Timestamp Camera: Photo Stamp",
       "name_ja": "タイムスタンプカメラ - 写真に日付を焼き込み",
       "icon": "📅",
