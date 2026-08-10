@@ -1,12 +1,19 @@
 {
   "self": {
-    "name": "Kaleidoscope Camera: Mirror Art",
+    "name": "Kaleidoscope Camera: Mirror",
     "name_ja": "万華鏡カメラ - リアルタイム万華鏡",
     "icon": "🔮",
     "android_package": "jp.razuma.kaleidoscopecamera",
     "ios_id": ""
   },
   "apps": [
+    {
+      "name": "Kaleidoscope Photo: Mirror Art",
+      "name_ja": "万華鏡フォト - 写真が万華鏡に",
+      "icon": "💠",
+      "android_package": "jp.razuma.kaleidoscopephoto",
+      "ios_id": ""
+    },
     {
       "name": "Low Quality Camera: Tiny Files",
       "name_ja": "低画質カメラ - 写真と動画を軽く小さく",
