@@ -8,6 +8,27 @@
   },
   "apps": [
     {
+      "name": "Kaleidoscope Photo: Mirror",
+      "name_ja": "万華鏡フォト - 写真を万華鏡模様に",
+      "icon": "💠",
+      "android_package": "jp.razuma.kaleidoscopephoto",
+      "ios_id": ""
+    },
+    {
+      "name": "Kaleidoscope Camera: Mirror",
+      "name_ja": "万華鏡カメラ - リアルタイム万華鏡",
+      "icon": "🔮",
+      "android_package": "jp.razuma.kaleidoscopecamera",
+      "ios_id": ""
+    },
+    {
+      "name": "Low Quality Camera: Tiny Files",
+      "name_ja": "低画質カメラ - 写真と動画を軽く小さく",
+      "icon": "🪶",
+      "android_package": "jp.razuma.lowqualitycamera",
+      "ios_id": ""
+    },
+    {
       "name": "DualCam",
       "name_ja": "デュアルカメラ",
       "icon": "📸",

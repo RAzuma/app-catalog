@@ -8,8 +8,8 @@
   },
   "apps": [
     {
-      "name": "Kaleidoscope Photo: Mirror Art",
-      "name_ja": "万華鏡フォト - 写真が万華鏡に",
+      "name": "Kaleidoscope Photo: Mirror",
+      "name_ja": "万華鏡フォト - 写真を万華鏡模様に",
       "icon": "💠",
       "android_package": "jp.razuma.kaleidoscopephoto",
       "ios_id": ""

@@ -8,6 +8,20 @@
   },
   "apps": [
     {
+      "name": "Kaleidoscope Photo: Mirror",
+      "name_ja": "万華鏡フォト - 写真を万華鏡模様に",
+      "icon": "💠",
+      "android_package": "jp.razuma.kaleidoscopephoto",
+      "ios_id": ""
+    },
+    {
+      "name": "Kaleidoscope Camera: Mirror",
+      "name_ja": "万華鏡カメラ - リアルタイム万華鏡",
+      "icon": "🔮",
+      "android_package": "jp.razuma.kaleidoscopecamera",
+      "ios_id": ""
+    },
+    {
       "name": "Timestamp Camera: Photo Stamp",
       "name_ja": "タイムスタンプカメラ - 写真に日付を焼き込み",
       "icon": "📅",
