@@ -1,0 +1,70 @@
+{
+  "self": {
+    "name": "技術士 一次試験 建設部門 試験対策 問題集",
+    "icon": "🏗️",
+    "android_package": "jp.razuma.gijutsushi1kensetsustudy",
+    "ios_id": ""
+  },
+  "apps": [
+    {
+      "name": "技術士 一次試験 基礎・適性 試験対策 問題集",
+      "icon": "⚙️",
+      "android_package": "jp.razuma.gijutsushi1kisostudy",
+      "ios_id": ""
+    },
+    {
+      "name": "2級建設機械施工管理技士 試験対策 問題集",
+      "icon": "🚜",
+      "android_package": "jp.razuma.kenki2study",
+      "ios_id": "id6782235202"
+    },
+    {
+      "name": "電気工事施工管理技士2級 試験対策 問題集",
+      "icon": "⚡",
+      "android_package": "jp.razuma.denkiseko2study",
+      "ios_id": "id6782372786"
+    },
+    {
+      "name": "電気工事施工管理技士1級 試験対策 問題集",
+      "icon": "⚡",
+      "android_package": "jp.razuma.denkiseko1study",
+      "ios_id": "id6782366090"
+    },
+    {
+      "name": "1級造園施工管理技士 試験対策 問題集",
+      "icon": "🌳",
+      "android_package": "jp.razuma.zouen1study",
+      "ios_id": "id6760777484"
+    },
+    {
+      "name": "2級造園施工管理技士 試験対策 問題集",
+      "icon": "🌿",
+      "android_package": "jp.razuma.zouen2study",
+      "ios_id": "id6760718732"
+    },
+    {
+      "name": "測量士補 試験対策 問題集",
+      "icon": "📐",
+      "android_package": "jp.razuma.sokuryouhstudy",
+      "ios_id": "id6769437282"
+    },
+    {
+      "name": "第二種電気工事士 試験対策 問題集",
+      "icon": "⚡",
+      "android_package": "jp.razuma.denko2study",
+      "ios_id": "id6760653775"
+    },
+    {
+      "name": "給水装置工事主任技術者 試験対策 問題集",
+      "icon": "🚿",
+      "android_package": "jp.razuma.kyusuistudy",
+      "ios_id": "id6759002078"
+    },
+    {
+      "name": "二級ボイラー技士 試験対策 問題集",
+      "icon": "🔥",
+      "android_package": "jp.razuma.boilerstudy",
+      "ios_id": "id6760298953"
+    }
+  ]
+}
