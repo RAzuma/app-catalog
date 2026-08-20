@@ -1,0 +1,70 @@
+{
+  "self": {
+    "name": "技術士 一次試験 上下水道部門 試験対策 問題集",
+    "icon": "🚰",
+    "android_package": "jp.razuma.gijutsushi1jogesuidostudy",
+    "ios_id": ""
+  },
+  "apps": [
+    {
+      "name": "技術士 一次試験 基礎・適性 試験対策 問題集",
+      "icon": "⚙️",
+      "android_package": "jp.razuma.gijutsushi1kisostudy",
+      "ios_id": ""
+    },
+    {
+      "name": "技術士 一次試験 建設部門 試験対策 問題集",
+      "icon": "🏗️",
+      "android_package": "jp.razuma.gijutsushi1kensetsustudy",
+      "ios_id": ""
+    },
+    {
+      "name": "技術士 一次試験 電気電子部門 試験対策 問題集",
+      "icon": "⚡",
+      "android_package": "jp.razuma.gijutsushi1denkidenshistudy",
+      "ios_id": ""
+    },
+    {
+      "name": "給水装置工事主任技術者 試験対策 問題集",
+      "icon": "🚿",
+      "android_package": "jp.razuma.kyusuistudy",
+      "ios_id": "id6759002078"
+    },
+    {
+      "name": "eco検定® 試験対策 問題集",
+      "icon": "🌱",
+      "android_package": "jp.razuma.ecostudy",
+      "ios_id": "id6769259571"
+    },
+    {
+      "name": "測量士補 試験対策 問題集",
+      "icon": "📐",
+      "android_package": "jp.razuma.sokuryouhstudy",
+      "ios_id": "id6769437282"
+    },
+    {
+      "name": "2級建設機械施工管理技士 試験対策 問題集",
+      "icon": "🚜",
+      "android_package": "jp.razuma.kenki2study",
+      "ios_id": "id6782235202"
+    },
+    {
+      "name": "1級造園施工管理技士 試験対策 問題集",
+      "icon": "🌳",
+      "android_package": "jp.razuma.zouen1study",
+      "ios_id": "id6760777484"
+    },
+    {
+      "name": "防災士 試験対策 問題集",
+      "icon": "🛡️",
+      "android_package": "jp.razuma.bousaistudy",
+      "ios_id": "id6760714466"
+    },
+    {
+      "name": "第一種衛生管理者 試験対策 問題集",
+      "icon": "🦺",
+      "android_package": "jp.razuma.eisei1study",
+      "ios_id": "id6776183218"
+    }
+  ]
+}
