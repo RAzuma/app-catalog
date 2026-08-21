@@ -1,12 +1,19 @@
 {
   "self": {
-    "name": "Visual Timer",
-    "name_ja": "ビジュアルタイマー",
-    "icon": "⏲️",
-    "android_package": "jp.razuma.visualtimer",
-    "ios_id": "id6796614986"
+    "name": "Hourglass Timer",
+    "name_ja": "砂時計タイマー",
+    "icon": "⏳",
+    "android_package": "jp.razuma.hourglasstimer",
+    "ios_id": ""
   },
   "apps": [
+    {
+      "name": "Visual Timer",
+      "name_ja": "ビジュアルタイマー",
+      "icon": "⏲️",
+      "android_package": "jp.razuma.visualtimer",
+      "ios_id": "id6796614986"
+    },
     {
       "name": "Big Timer - Simple",
       "name_ja": "大きいタイマー",
