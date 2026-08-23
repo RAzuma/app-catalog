@@ -1,15 +1,15 @@
 {
   "self": {
-    "name": "金融AMLオフィサー[基本] 試験対策 問題集",
-    "icon": "🕵️",
-    "android_package": "jp.razuma.amlkihonstudy",
+    "name": "金融AMLオフィサー[実践] 試験対策 問題集",
+    "icon": "🛡️",
+    "android_package": "jp.razuma.amljissenstudy",
     "ios_id": ""
   },
   "apps": [
     {
-      "name": "金融AMLオフィサー[実践] 試験対策 問題集",
-      "icon": "🛡️",
-      "android_package": "jp.razuma.amljissenstudy",
+      "name": "金融AMLオフィサー[基本] 試験対策 問題集",
+      "icon": "🕵️",
+      "android_package": "jp.razuma.amlkihonstudy",
       "ios_id": ""
     },
     {
