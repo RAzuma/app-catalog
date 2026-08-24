@@ -1,0 +1,82 @@
+{
+  "self": {
+    "name": "金融サイバーセキュリティ3級 試験対策 問題集",
+    "icon": "🔐",
+    "android_package": "jp.razuma.cyber3study",
+    "ios_id": ""
+  },
+  "apps": [
+    {
+      "name": "財務3級 銀行業務検定 試験対策 問題集",
+      "icon": "📊",
+      "android_package": "jp.razuma.zaimu3study",
+      "ios_id": "id6762174961"
+    },
+    {
+      "name": "法務3級 銀行業務検定 試験対策 問題集",
+      "icon": "📚",
+      "android_package": "jp.razuma.houmu3study",
+      "ios_id": "id6769617740"
+    },
+    {
+      "name": "金融コンプライアンスオフィサー 試験対策 問題集",
+      "icon": "⚖️",
+      "android_package": "jp.razuma.fco2study",
+      "ios_id": "id6762942606"
+    },
+    {
+      "name": "内部管理責任者 試験対策 問題集",
+      "icon": "🏛️",
+      "android_package": "jp.razuma.naibukansastudy",
+      "ios_id": "id6763018161"
+    },
+    {
+      "name": "金融AMLオフィサー[基本] 試験対策 問題集",
+      "icon": "🕵️",
+      "android_package": "jp.razuma.amlkihonstudy",
+      "ios_id": ""
+    },
+    {
+      "name": "貸金業務取扱主任者 試験対策 問題集",
+      "icon": "🏦",
+      "android_package": "jp.razuma.kashikinstudy",
+      "ios_id": "id6760295551"
+    },
+    {
+      "name": "相続アドバイザー3級 試験対策 問題集",
+      "icon": "📜",
+      "android_package": "jp.razuma.souzoku3study",
+      "ios_id": "id6760969295"
+    },
+    {
+      "name": "ITパスポート 試験対策 問題集",
+      "icon": "💻",
+      "android_package": "jp.razuma.itpassstudy",
+      "ios_id": "id6769422097"
+    },
+    {
+      "name": "基本情報技術者 試験対策 問題集",
+      "icon": "🧑‍💻",
+      "android_package": "jp.razuma.kihonjouhoustudy",
+      "ios_id": "id6782357919"
+    },
+    {
+      "name": "G検定 試験対策 問題集",
+      "icon": "🤖",
+      "android_package": "jp.razuma.gkenteistudy",
+      "ios_id": "id6760967908"
+    },
+    {
+      "name": "生成AIパスポート 試験対策 問題集",
+      "icon": "✨",
+      "android_package": "jp.razuma.aipassstudy",
+      "ios_id": "id6762179023"
+    },
+    {
+      "name": "ウェブデザイン技能検定3級 試験対策 問題集",
+      "icon": "🎨",
+      "android_package": "jp.razuma.webdesign3study",
+      "ios_id": "id6776070625"
+    }
+  ]
+}
