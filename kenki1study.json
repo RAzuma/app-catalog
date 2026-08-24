@@ -1,16 +1,16 @@
 {
   "self": {
-    "name": "2級建設機械施工管理技士 試験対策 問題集",
-    "icon": "🚜",
-    "android_package": "jp.razuma.kenki2study",
-    "ios_id": "id6782235202"
+    "name": "1級建設機械施工管理技士 試験対策 問題集",
+    "icon": "🏗️",
+    "android_package": "jp.razuma.kenki1study",
+    "ios_id": ""
   },
   "apps": [
     {
-      "name": "1級建設機械施工管理技士 試験対策 問題集",
-      "icon": "🏗️",
-      "android_package": "jp.razuma.kenki1study",
-      "ios_id": ""
+      "name": "2級建設機械施工管理技士 試験対策 問題集",
+      "icon": "🚜",
+      "android_package": "jp.razuma.kenki2study",
+      "ios_id": "id6782235202"
     },
     {
       "name": "電気工事施工管理技士2級 試験対策 問題集",
