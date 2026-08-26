@@ -7,6 +7,18 @@
   },
   "apps": [
     {
+      "name": "レストランサービス技能検定2級 試験対策 問題集",
+      "icon": "🍽️",
+      "android_package": "jp.razuma.restservice2study",
+      "ios_id": ""
+    },
+    {
+      "name": "レストランサービス技能検定3級 試験対策 問題集",
+      "icon": "🍽️",
+      "android_package": "jp.razuma.restservice3study",
+      "ios_id": ""
+    },
+    {
       "name": "通関士 試験対策 問題集",
       "icon": "📝",
       "android_package": "jp.razuma.tsukanshistudy",

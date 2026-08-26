@@ -1,0 +1,94 @@
+{
+  "self": {
+    "name": "一級ボイラー技士 試験対策 問題集",
+    "icon": "🔥",
+    "android_package": "jp.razuma.boiler1study",
+    "ios_id": ""
+  },
+  "apps": [
+    {
+      "name": "二級ボイラー技士 試験対策 問題集",
+      "icon": "🔥",
+      "android_package": "jp.razuma.boilerstudy",
+      "ios_id": "id6760298953"
+    },
+    {
+      "name": "第三種電気主任技術者 試験対策 問題集",
+      "icon": "⚡",
+      "android_package": "jp.razuma.denken3study",
+      "ios_id": "id6782580983"
+    },
+    {
+      "name": "第三種冷凍機械責任者 試験対策 問題集",
+      "icon": "❄️",
+      "android_package": "jp.razuma.reitou3study",
+      "ios_id": "id6782385410"
+    },
+    {
+      "name": "給水装置工事主任技術者 試験対策 問題集",
+      "icon": "🚿",
+      "android_package": "jp.razuma.kyusuistudy",
+      "ios_id": "id6759002078"
+    },
+    {
+      "name": "第二種電気工事士 試験対策 問題集",
+      "icon": "⚡",
+      "android_package": "jp.razuma.denko2study",
+      "ios_id": "id6760653775"
+    },
+    {
+      "name": "消防設備士 甲種1類 試験対策 問題集",
+      "icon": "💧",
+      "android_package": "jp.razuma.shouboukou1study",
+      "ios_id": "id6761740003"
+    },
+    {
+      "name": "消防設備士 甲種4類 試験対策 問題集",
+      "icon": "🔔",
+      "android_package": "jp.razuma.shouboukou4study",
+      "ios_id": "id6761760019"
+    },
+    {
+      "name": "消防設備士 乙種4類 試験対策 問題集",
+      "icon": "🔥",
+      "android_package": "jp.razuma.shoubouotsu4study",
+      "ios_id": "id6761720056"
+    },
+    {
+      "name": "1級造園施工管理技士 試験対策 問題集",
+      "icon": "🌳",
+      "android_package": "jp.razuma.zouen1study",
+      "ios_id": "id6760777484"
+    },
+    {
+      "name": "2級造園施工管理技士 試験対策 問題集",
+      "icon": "🌿",
+      "android_package": "jp.razuma.zouen2study",
+      "ios_id": "id6760718732"
+    },
+    {
+      "name": "防災士 試験対策 問題集",
+      "icon": "🛡️",
+      "android_package": "jp.razuma.bousaistudy",
+      "ios_id": "id6760714466"
+    },
+    {
+      "name": "危険物取扱者 乙種4類 試験対策 問題集",
+      "icon": "🛢️",
+      "android_package": "jp.razuma.kikenotsu4study",
+      "ios_id": "id6782099051"
+    },
+    {
+      "name": "危険物取扱者 甲種 試験対策 問題集",
+      "icon": "🧪",
+      "android_package": "jp.razuma.kikenkoustudy",
+      "ios_id": "id6782110735"
+    },
+    {
+      "name": "2級建設機械施工管理技士 試験対策 問題集",
+      "icon": "🚜",
+      "android_package": "jp.razuma.kenki2study",
+      "ios_id": "id6782235202"
+    }
+  ]
+}
