@@ -1,0 +1,76 @@
+{
+  "self": {
+    "name": "レストランサービス技能検定2級 試験対策 問題集",
+    "icon": "🍽️",
+    "android_package": "jp.razuma.restservice2study",
+    "ios_id": ""
+  },
+  "apps": [
+    {
+      "name": "レストランサービス技能検定3級 試験対策 問題集",
+      "icon": "🍽️",
+      "android_package": "jp.razuma.restservice3study",
+      "ios_id": ""
+    },
+    {
+      "name": "製菓衛生師 試験対策 問題集",
+      "icon": "🍰",
+      "android_package": "jp.razuma.seikastudy",
+      "ios_id": "id6763000184"
+    },
+    {
+      "name": "管理栄養士 試験対策 問題集",
+      "icon": "📝",
+      "android_package": "jp.razuma.kanrieiyoustudy",
+      "ios_id": "id6762190003"
+    },
+    {
+      "name": "秘書検定2級 試験対策 問題集",
+      "icon": "💼",
+      "android_package": "jp.razuma.hisho2study",
+      "ios_id": "id6760651272"
+    },
+    {
+      "name": "秘書検定3級 試験対策 問題集",
+      "icon": "📋",
+      "android_package": "jp.razuma.hisho3study",
+      "ios_id": "id6760639728"
+    },
+    {
+      "name": "総合旅行業務取扱管理者 試験対策 問題集",
+      "icon": "🌏",
+      "android_package": "jp.razuma.ryokousougoustudy",
+      "ios_id": "id6762968840"
+    },
+    {
+      "name": "ビジネスマネージャー検定試験® 試験対策 問題集",
+      "icon": "👔",
+      "android_package": "jp.razuma.bizmanstudy",
+      "ios_id": "id6769289484"
+    },
+    {
+      "name": "カラーコーディネーター検定試験® 試験対策 問題集",
+      "icon": "🎨",
+      "android_package": "jp.razuma.colorstdstudy",
+      "ios_id": "id6769266259"
+    },
+    {
+      "name": "福祉住環境コーディネーター3級 試験対策 問題集",
+      "icon": "🏠",
+      "android_package": "jp.razuma.fukushiju3study",
+      "ios_id": "id6769249564"
+    },
+    {
+      "name": "eco検定® 試験対策 問題集",
+      "icon": "🌱",
+      "android_package": "jp.razuma.ecostudy",
+      "ios_id": "id6769259571"
+    },
+    {
+      "name": "ねこ検定初級 試験対策 問題集",
+      "icon": "🐱",
+      "android_package": "jp.razuma.neko3study",
+      "ios_id": "id6762985434"
+    }
+  ]
+}
