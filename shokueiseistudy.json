@@ -1,0 +1,82 @@
+{
+  "self": {
+    "name": "食品衛生責任者 養成講習 対策問題集",
+    "icon": "🧼",
+    "android_package": "jp.razuma.shokueiseistudy",
+    "ios_id": ""
+  },
+  "apps": [
+    {
+      "name": "製菓衛生師 試験対策 問題集",
+      "icon": "🍰",
+      "android_package": "jp.razuma.seikastudy",
+      "ios_id": "id6763000184"
+    },
+    {
+      "name": "管理栄養士 試験対策 問題集",
+      "icon": "📝",
+      "android_package": "jp.razuma.kanrieiyoustudy",
+      "ios_id": "id6762190003"
+    },
+    {
+      "name": "レストランサービス技能検定3級 試験対策 問題集",
+      "icon": "🍽️",
+      "android_package": "jp.razuma.restservice3study",
+      "ios_id": ""
+    },
+    {
+      "name": "レストランサービス技能検定2級 試験対策 問題集",
+      "icon": "🍽️",
+      "android_package": "jp.razuma.restservice2study",
+      "ios_id": ""
+    },
+    {
+      "name": "第一種衛生管理者 試験対策 問題集",
+      "icon": "🦺",
+      "android_package": "jp.razuma.eisei1study",
+      "ios_id": "id6776183218"
+    },
+    {
+      "name": "第二種衛生管理者 試験対策 問題集",
+      "icon": "🩺",
+      "android_package": "jp.razuma.eisei2study",
+      "ios_id": "id6776221215"
+    },
+    {
+      "name": "毒物劇物取扱責任者 試験対策 問題集",
+      "icon": "⚗️",
+      "android_package": "jp.razuma.dokugekistudy",
+      "ios_id": "id6769603389"
+    },
+    {
+      "name": "登録販売者 試験対策 問題集",
+      "icon": "💊",
+      "android_package": "jp.razuma.touhanstudy",
+      "ios_id": "id6776094588"
+    },
+    {
+      "name": "ケアマネジャー（介護支援専門員）試験対策 問題集",
+      "icon": "📋",
+      "android_package": "jp.razuma.caremanestudy",
+      "ios_id": "id6782353067"
+    },
+    {
+      "name": "防災士 試験対策 問題集",
+      "icon": "🛡️",
+      "android_package": "jp.razuma.bousaistudy",
+      "ios_id": "id6760714466"
+    },
+    {
+      "name": "救急救命士 試験対策 問題集",
+      "icon": "🚑",
+      "android_package": "jp.razuma.kyuukyuustudy",
+      "ios_id": "id6769599129"
+    },
+    {
+      "name": "ねこ検定初級 試験対策 問題集",
+      "icon": "🐱",
+      "android_package": "jp.razuma.neko3study",
+      "ios_id": "id6762985434"
+    }
+  ]
+}
