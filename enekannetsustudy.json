@@ -1,0 +1,94 @@
+{
+  "self": {
+    "name": "エネルギー管理士 熱分野 試験対策 問題集",
+    "icon": "🏭",
+    "android_package": "jp.razuma.enekannetsustudy",
+    "ios_id": ""
+  },
+  "apps": [
+    {
+      "name": "エネルギー管理士 電気分野 試験対策 問題集",
+      "icon": "💡",
+      "android_package": "jp.razuma.enekandenkistudy",
+      "ios_id": ""
+    },
+    {
+      "name": "一級ボイラー技士 試験対策 問題集",
+      "icon": "🔥",
+      "android_package": "jp.razuma.boiler1study",
+      "ios_id": ""
+    },
+    {
+      "name": "二級ボイラー技士 試験対策 問題集",
+      "icon": "🔥",
+      "android_package": "jp.razuma.boilerstudy",
+      "ios_id": "id6760298953"
+    },
+    {
+      "name": "第三種冷凍機械責任者 試験対策 問題集",
+      "icon": "❄️",
+      "android_package": "jp.razuma.reitou3study",
+      "ios_id": "id6782385410"
+    },
+    {
+      "name": "第三種電気主任技術者 試験対策 問題集",
+      "icon": "⚡",
+      "android_package": "jp.razuma.denken3study",
+      "ios_id": "id6782580983"
+    },
+    {
+      "name": "給水装置工事主任技術者 試験対策 問題集",
+      "icon": "🚿",
+      "android_package": "jp.razuma.kyusuistudy",
+      "ios_id": "id6759002078"
+    },
+    {
+      "name": "危険物取扱者 乙種4類 試験対策 問題集",
+      "icon": "🛢️",
+      "android_package": "jp.razuma.kikenotsu4study",
+      "ios_id": "id6782099051"
+    },
+    {
+      "name": "危険物取扱者 甲種 試験対策 問題集",
+      "icon": "🧪",
+      "android_package": "jp.razuma.kikenkoustudy",
+      "ios_id": "id6782110735"
+    },
+    {
+      "name": "消防設備士 甲種4類 試験対策 問題集",
+      "icon": "🔔",
+      "android_package": "jp.razuma.shouboukou4study",
+      "ios_id": "id6761760019"
+    },
+    {
+      "name": "第二種電気工事士 試験対策 問題集",
+      "icon": "⚡",
+      "android_package": "jp.razuma.denko2study",
+      "ios_id": "id6760653775"
+    },
+    {
+      "name": "電気工事施工管理技士1級 試験対策 問題集",
+      "icon": "⚡",
+      "android_package": "jp.razuma.denkiseko1study",
+      "ios_id": "id6782366090"
+    },
+    {
+      "name": "第一種衛生管理者 試験対策 問題集",
+      "icon": "🦺",
+      "android_package": "jp.razuma.eisei1study",
+      "ios_id": "id6776183218"
+    },
+    {
+      "name": "eco検定® 試験対策 問題集",
+      "icon": "🌱",
+      "android_package": "jp.razuma.ecostudy",
+      "ios_id": "id6769259571"
+    },
+    {
+      "name": "サステナブル経営サポート 試験対策 問題集",
+      "icon": "🌱",
+      "android_package": "jp.razuma.sustainstudy",
+      "ios_id": "id6762956603"
+    }
+  ]
+}
