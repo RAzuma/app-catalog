@@ -1,0 +1,100 @@
+{
+  "self": {
+    "name": "第1種放射線取扱主任者 試験対策 問題集",
+    "icon": "☢️",
+    "android_package": "jp.razuma.houshasen1study",
+    "ios_id": ""
+  },
+  "apps": [
+    {
+      "name": "第2種放射線取扱主任者 試験対策 問題集",
+      "icon": "☢️",
+      "android_package": "jp.razuma.houshasen2study",
+      "ios_id": ""
+    },
+    {
+      "name": "毒物劇物取扱責任者 試験対策 問題集",
+      "icon": "⚗️",
+      "android_package": "jp.razuma.dokugekistudy",
+      "ios_id": "id6769603389"
+    },
+    {
+      "name": "危険物取扱者 甲種 試験対策 問題集",
+      "icon": "🧪",
+      "android_package": "jp.razuma.kikenkoustudy",
+      "ios_id": "id6782110735"
+    },
+    {
+      "name": "危険物取扱者 乙種4類 試験対策 問題集",
+      "icon": "🛢️",
+      "android_package": "jp.razuma.kikenotsu4study",
+      "ios_id": "id6782099051"
+    },
+    {
+      "name": "第一種衛生管理者 試験対策 問題集",
+      "icon": "🦺",
+      "android_package": "jp.razuma.eisei1study",
+      "ios_id": "id6776183218"
+    },
+    {
+      "name": "第二種衛生管理者 試験対策 問題集",
+      "icon": "🩺",
+      "android_package": "jp.razuma.eisei2study",
+      "ios_id": "id6776221215"
+    },
+    {
+      "name": "第三種電気主任技術者 試験対策 問題集",
+      "icon": "⚡",
+      "android_package": "jp.razuma.denken3study",
+      "ios_id": "id6782580983"
+    },
+    {
+      "name": "技術士 一次試験 基礎・適性 試験対策 問題集",
+      "icon": "⚙️",
+      "android_package": "jp.razuma.gijutsushi1kisostudy",
+      "ios_id": ""
+    },
+    {
+      "name": "エネルギー管理士 熱分野 試験対策 問題集",
+      "icon": "🏭",
+      "android_package": "jp.razuma.enekannetsustudy",
+      "ios_id": ""
+    },
+    {
+      "name": "エネルギー管理士 電気分野 試験対策 問題集",
+      "icon": "💡",
+      "android_package": "jp.razuma.enekandenkistudy",
+      "ios_id": ""
+    },
+    {
+      "name": "一級ボイラー技士 試験対策 問題集",
+      "icon": "🔥",
+      "android_package": "jp.razuma.boiler1study",
+      "ios_id": ""
+    },
+    {
+      "name": "第三種冷凍機械責任者 試験対策 問題集",
+      "icon": "❄️",
+      "android_package": "jp.razuma.reitou3study",
+      "ios_id": "id6782385410"
+    },
+    {
+      "name": "測量士補 試験対策 問題集",
+      "icon": "📐",
+      "android_package": "jp.razuma.sokuryouhstudy",
+      "ios_id": "id6769437282"
+    },
+    {
+      "name": "QC検定® 2級 試験対策 問題集",
+      "icon": "📈",
+      "android_package": "jp.razuma.qc2study",
+      "ios_id": "id6761119279"
+    },
+    {
+      "name": "防災士 試験対策 問題集",
+      "icon": "🛡️",
+      "android_package": "jp.razuma.bousaistudy",
+      "ios_id": "id6760714466"
+    }
+  ]
+}
