@@ -1,0 +1,88 @@
+{
+  "self": {
+    "name": "消防設備士 乙種6類 試験対策 問題集",
+    "icon": "🧯",
+    "android_package": "jp.razuma.shoubouotsu6study",
+    "ios_id": "id6761722687"
+  },
+  "apps": [
+    {
+      "name": "消防設備士 甲種特類 試験対策 問題集",
+      "icon": "🚒",
+      "android_package": "jp.razuma.shouboukoutokustudy",
+      "ios_id": "id6761763049"
+    },
+    {
+      "name": "消防設備士 甲種第1類 試験対策 問題集",
+      "icon": "💧",
+      "android_package": "jp.razuma.shouboukou1study",
+      "ios_id": "id6761740003"
+    },
+    {
+      "name": "消防設備士 甲種第2類 試験対策 問題集",
+      "icon": "🫧",
+      "android_package": "jp.razuma.shouboukou2study",
+      "ios_id": "id6761740715"
+    },
+    {
+      "name": "消防設備士 甲種第3類 試験対策 問題集",
+      "icon": "🌫️",
+      "android_package": "jp.razuma.shouboukou3study",
+      "ios_id": "id6761755237"
+    },
+    {
+      "name": "消防設備士 甲種第4類 試験対策 問題集",
+      "icon": "🔔",
+      "android_package": "jp.razuma.shouboukou4study",
+      "ios_id": "id6761760019"
+    },
+    {
+      "name": "消防設備士 甲種第5類 試験対策 問題集",
+      "icon": "🪜",
+      "android_package": "jp.razuma.shouboukou5study",
+      "ios_id": "id6761761435"
+    },
+    {
+      "name": "消防設備士 乙種第1類 試験対策 問題集",
+      "icon": "🚿",
+      "android_package": "jp.razuma.shoubouotsu1study",
+      "ios_id": "id6761699951"
+    },
+    {
+      "name": "消防設備士 乙種第2類 試験対策 問題集",
+      "icon": "🧴",
+      "android_package": "jp.razuma.shoubouotsu2study",
+      "ios_id": "id6761714904"
+    },
+    {
+      "name": "消防設備士 乙種第3類 試験対策 問題集",
+      "icon": "💨",
+      "android_package": "jp.razuma.shoubouotsu3study",
+      "ios_id": "id6761718918"
+    },
+    {
+      "name": "消防設備士 乙種第4類 試験対策 問題集",
+      "icon": "🔥",
+      "android_package": "jp.razuma.shoubouotsu4study",
+      "ios_id": "id6761720056"
+    },
+    {
+      "name": "消防設備士 乙種第5類 試験対策 問題集",
+      "icon": "🏗️",
+      "android_package": "jp.razuma.shoubouotsu5study",
+      "ios_id": "id6761721050"
+    },
+    {
+      "name": "消防設備士 乙種第7類 試験対策 問題集",
+      "icon": "⚡",
+      "android_package": "jp.razuma.shoubouotsu7study",
+      "ios_id": "id6761726042"
+    },
+    {
+      "name": "防災士 試験対策 問題集",
+      "icon": "🛡️",
+      "android_package": "jp.razuma.bousaistudy",
+      "ios_id": "id6760714466"
+    }
+  ]
+}
