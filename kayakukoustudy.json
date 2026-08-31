@@ -7,6 +7,12 @@
   },
   "apps": [
     {
+      "name": "乙種 火薬類取扱保安責任者 試験対策 問題集",
+      "icon": "🧨",
+      "android_package": "jp.razuma.kayakuotsustudy",
+      "ios_id": ""
+    },
+    {
       "name": "第1種放射線取扱主任者 試験対策 問題集",
       "icon": "☢️",
       "android_package": "jp.razuma.houshasen1study",

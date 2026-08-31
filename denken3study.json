@@ -35,6 +35,18 @@
       "icon": "🔥",
       "android_package": "jp.razuma.boilerstudy",
       "ios_id": "id6760298953"
+    },
+    {
+      "name": "乙種 火薬類取扱保安責任者 試験対策 問題集",
+      "icon": "🧨",
+      "android_package": "jp.razuma.kayakuotsustudy",
+      "ios_id": ""
+    },
+    {
+      "name": "甲種 火薬類取扱保安責任者 試験対策 問題集",
+      "icon": "🧨",
+      "android_package": "jp.razuma.kayakukoustudy",
+      "ios_id": ""
     }
   ]
 }
