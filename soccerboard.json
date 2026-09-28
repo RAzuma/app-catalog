@@ -1,7 +1,7 @@
 {
   "self": {
-    "name": "Soccer Board",
-    "name_ja": "サッカー作戦ボード",
+    "name": "Soccer Board: Tactics & Drills",
+    "name_ja": "サッカー作戦ボード - 戦術と練習",
     "icon": "⚽",
     "android_package": "jp.razuma.soccerboard",
     "ios_id": ""
