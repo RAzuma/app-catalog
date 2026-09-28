@@ -1,0 +1,95 @@
+{
+  "self": {
+    "name": "Soccer Board",
+    "name_ja": "サッカー作戦ボード",
+    "icon": "⚽",
+    "android_package": "jp.razuma.soccerboard",
+    "ios_id": ""
+  },
+  "apps": [
+    {
+      "name": "Referee whistle, yellow card",
+      "name_ja": "審判のイエローカードとホイッスル",
+      "icon": "🟨",
+      "android_package": "jp.razuma.refereewhistlecard",
+      "ios_id": "id6449401491"
+    },
+    {
+      "name": "Scoreboard - Simple",
+      "name_ja": "スコアボード - シンプル",
+      "icon": "🔢",
+      "android_package": "jp.razuma.scoreboard.simple",
+      "ios_id": "id6450506316"
+    },
+    {
+      "name": "Multi Scoreboard",
+      "name_ja": "マルチスコアボード",
+      "icon": "📊",
+      "android_package": "jp.razuma.multiscoreboard",
+      "ios_id": "id6454793138"
+    },
+    {
+      "name": "Big Timer - Simple",
+      "name_ja": "大きいタイマー",
+      "icon": "⏱️",
+      "android_package": "jp.razuma.big.timer",
+      "ios_id": "id1619061460"
+    },
+    {
+      "name": "Simple timer",
+      "name_ja": "シンプルタイマー",
+      "icon": "⏰",
+      "android_package": "jp.razuma.simpletimer",
+      "ios_id": ""
+    },
+    {
+      "name": "Visual Timer",
+      "name_ja": "ビジュアルタイマー",
+      "icon": "⏲️",
+      "android_package": "jp.razuma.visualtimer",
+      "ios_id": "id6796614986"
+    },
+    {
+      "name": "Simple Whiteboard",
+      "name_ja": "シンプルホワイトボード",
+      "icon": "🖊️",
+      "android_package": "jp.razuma.whiteboard",
+      "ios_id": "id1599938892"
+    },
+    {
+      "name": "Simple blackboard",
+      "name_ja": "シンプル黒板",
+      "icon": "🟩",
+      "android_package": "jp.razuma.blackboard",
+      "ios_id": "id1600026235"
+    },
+    {
+      "name": "Ghost Leg",
+      "name_ja": "あみだくじ",
+      "icon": "🪜",
+      "android_package": "jp.razuma.ghostleg",
+      "ios_id": "id1612595162"
+    },
+    {
+      "name": "Original Lottery Maker",
+      "name_ja": "くじ引き作成",
+      "icon": "🎟️",
+      "android_package": "jp.razuma.lottery",
+      "ios_id": ""
+    },
+    {
+      "name": "Reflex,Reaction Training-Shoot",
+      "name_ja": "反射神経トレーニング - Shoot",
+      "icon": "🎯",
+      "android_package": "jp.razuma.reaction.training.shoot",
+      "ios_id": "id1672910609"
+    },
+    {
+      "name": "Reaction rate measurement",
+      "name_ja": "反応速度測定",
+      "icon": "⚡",
+      "android_package": "jp.razuma.reactiontimetest",
+      "ios_id": "id1669730948"
+    }
+  ]
+}
