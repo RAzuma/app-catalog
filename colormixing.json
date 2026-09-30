@@ -1,0 +1,102 @@
+{
+  "self": {
+    "name": "Color Mixing Play - Paint Lab",
+    "name_ja": "いろまぜあそび - 色水・えのぐ・ひかり",
+    "icon": "🧪",
+    "android_package": "jp.razuma.colormixing",
+    "ios_id": ""
+  },
+  "apps": [
+    {
+      "name": "Drawing Pad",
+      "name_ja": "おえかき帳",
+      "icon": "🎨",
+      "android_package": "jp.razuma.drawingbook",
+      "ios_id": "id1599866010"
+    },
+    {
+      "name": "Drawing on Blackboard",
+      "name_ja": "黒板風おえかき帳",
+      "icon": "🖍️",
+      "android_package": "jp.razuma.drawingbook.blackboard",
+      "ios_id": "id1600254502"
+    },
+    {
+      "name": "Simple Whiteboard",
+      "name_ja": "シンプルホワイトボード",
+      "icon": "🖊️",
+      "android_package": "jp.razuma.whiteboard",
+      "ios_id": "id1599938892"
+    },
+    {
+      "name": "Simple blackboard",
+      "name_ja": "シンプル黒板",
+      "icon": "🟩",
+      "android_package": "jp.razuma.blackboard",
+      "ios_id": "id1600026235"
+    },
+    {
+      "name": "Draw on Pictures - Simple",
+      "name_ja": "画像に絵がかける",
+      "icon": "🖼️",
+      "android_package": "jp.razuma.draw.on.pictures",
+      "ios_id": "id1623365600"
+    },
+    {
+      "name": "Kaleidoscope Photo: Mirror",
+      "name_ja": "万華鏡フォト - 写真を万華鏡模様に",
+      "icon": "💠",
+      "android_package": "jp.razuma.kaleidoscopephoto",
+      "ios_id": ""
+    },
+    {
+      "name": "Kaleidoscope Camera: Mirror",
+      "name_ja": "万華鏡カメラ - リアルタイム万華鏡",
+      "icon": "🔮",
+      "android_package": "jp.razuma.kaleidoscopecamera",
+      "ios_id": ""
+    },
+    {
+      "name": "Photo Color Filter",
+      "name_ja": "カラーフィルター加工写真",
+      "icon": "🌈",
+      "android_package": "jp.razuma.photocolorfilter",
+      "ios_id": "id6514320971"
+    },
+    {
+      "name": "Watercolor Photo Processing",
+      "name_ja": "水彩画写真加工",
+      "icon": "🎨",
+      "android_package": "jp.razuma.watercolorphoto",
+      "ios_id": "id6445884413"
+    },
+    {
+      "name": "Funny Face Camera - Warp",
+      "name_ja": "変顔カメラ - 顔をゆがめて遊ぶ",
+      "icon": "🤪",
+      "android_package": "jp.razuma.funnyfacecamera",
+      "ios_id": ""
+    },
+    {
+      "name": "Hourglass Timer",
+      "name_ja": "砂時計タイマー",
+      "icon": "⏳",
+      "android_package": "jp.razuma.hourglasstimer",
+      "ios_id": ""
+    },
+    {
+      "name": "Visual Timer",
+      "name_ja": "ビジュアルタイマー",
+      "icon": "⏲️",
+      "android_package": "jp.razuma.visualtimer",
+      "ios_id": "id6796614986"
+    },
+    {
+      "name": "Ghost Leg",
+      "name_ja": "あみだくじ",
+      "icon": "🪜",
+      "android_package": "jp.razuma.ghostleg",
+      "ios_id": "id1612595162"
+    }
+  ]
+}
