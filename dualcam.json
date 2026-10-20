@@ -7,6 +7,20 @@
   },
   "apps": [
     {
+      "name": "GPS Map Camera: Geotag Photo",
+      "name_ja": "GPSマップカメラ - 位置情報と地図を写真に",
+      "icon": "📍",
+      "android_package": "jp.razuma.gpsmapcamera",
+      "ios_id": ""
+    },
+    {
+      "name": "Fisheye Camera: Lens & Video",
+      "name_ja": "魚眼カメラ - 魚眼レンズで写真と動画",
+      "icon": "🐟",
+      "android_package": "jp.razuma.fisheyecamera",
+      "ios_id": ""
+    },
+    {
       "name": "Kaleidoscope Photo: Mirror",
       "name_ja": "万華鏡フォト - 写真を万華鏡模様に",
       "icon": "💠",
