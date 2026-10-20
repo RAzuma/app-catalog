@@ -8,6 +8,27 @@
   },
   "apps": [
     {
+      "name": "Futsal Board: Tactics & Drills",
+      "name_ja": "フットサル作戦ボード - 戦術と練習",
+      "icon": "🥅",
+      "android_package": "jp.razuma.futsalboard",
+      "ios_id": ""
+    },
+    {
+      "name": "Basketball Board: Tactics",
+      "name_ja": "バスケ作戦ボード - 戦術と練習",
+      "icon": "🏀",
+      "android_package": "jp.razuma.basketballboard",
+      "ios_id": ""
+    },
+    {
+      "name": "Volleyball Board: Rotations",
+      "name_ja": "バレー作戦ボード - ローテと戦術",
+      "icon": "🏐",
+      "android_package": "jp.razuma.volleyballboard",
+      "ios_id": ""
+    },
+    {
       "name": "Referee whistle, yellow card",
       "name_ja": "審判のイエローカードとホイッスル",
       "icon": "🟨",
