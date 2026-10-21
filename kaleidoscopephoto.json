@@ -113,6 +113,13 @@
       "ios_id": ""
     },
     {
+      "name": "Magnifier & Microscope: Light",
+      "name_ja": "拡大鏡＆顕微鏡 - ルーペ・虫眼鏡・ライト付き",
+      "icon": "🔍",
+      "android_package": "jp.razuma.magnifiermicroscope",
+      "ios_id": ""
+    },
+    {
       "name": "Time Warp Scan: Blue Line Face",
       "name_ja": "タイムワープスキャン - 青い線で顔が伸びる",
       "icon": "🌀",

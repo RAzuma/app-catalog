@@ -8,6 +8,13 @@
   },
   "apps": [
     {
+      "name": "Magnifier & Microscope: Light",
+      "name_ja": "拡大鏡＆顕微鏡 - ルーペ・虫眼鏡・ライト付き",
+      "icon": "🔍",
+      "android_package": "jp.razuma.magnifiermicroscope",
+      "ios_id": ""
+    },
+    {
       "name": "Funny Face Camera - Warp",
       "name_ja": "変顔カメラ - 顔をゆがめて遊ぶ",
       "icon": "🤪",
