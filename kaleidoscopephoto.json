@@ -113,6 +113,13 @@
       "ios_id": ""
     },
     {
+      "name": "Time Warp Scan: Blue Line Face",
+      "name_ja": "タイムワープスキャン - 青い線で顔が伸びる",
+      "icon": "🌀",
+      "android_package": "jp.razuma.timewarpscan",
+      "ios_id": ""
+    },
+    {
       "name": "GPS Map Camera: Geotag Photo",
       "name_ja": "GPSマップカメラ - 位置情報と地図を写真に",
       "icon": "📍",
