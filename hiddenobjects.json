@@ -1,0 +1,88 @@
+{
+  "self": {
+    "name": "Hidden Objects: Seek & Find",
+    "name_ja": "探し物ゲーム - 絵探し・さがしものパズル",
+    "icon": "🔎",
+    "android_package": "jp.razuma.hiddenobjects",
+    "ios_id": ""
+  },
+  "apps": [
+    {
+      "name": "Toilet Escape - Escape Room",
+      "name_ja": "脱出ゲーム トイレから出られない！初心者編",
+      "icon": "🚽",
+      "android_package": "jp.razuma.toiletescape",
+      "ios_id": ""
+    },
+    {
+      "name": "Touch the Numbers - Brain Game",
+      "name_ja": "数字早押しゲーム - 数字タッチで脳トレ",
+      "icon": "🔢",
+      "android_package": "jp.razuma.touchthenumber",
+      "ios_id": ""
+    },
+    {
+      "name": "Slide puzzle",
+      "name_ja": "スライドパズル",
+      "icon": "🧩",
+      "android_package": "jp.razuma.slidepuzzle",
+      "ios_id": ""
+    },
+    {
+      "name": "Tic Tac Toe - Unbeatable AI",
+      "name_ja": "最強のまるばつゲーム - 三目並べ",
+      "icon": "⭕",
+      "android_package": "com.taikutusan.marubatu",
+      "ios_id": ""
+    },
+    {
+      "name": "master mind - hit and blow",
+      "name_ja": "Hit & Blow ヒットアンドブロー",
+      "icon": "🎯",
+      "android_package": "jp.razuma.hitandblow",
+      "ios_id": ""
+    },
+    {
+      "name": "Ghost Leg",
+      "name_ja": "あみだくじ",
+      "icon": "🪜",
+      "android_package": "jp.razuma.ghostleg",
+      "ios_id": "id1612595162"
+    },
+    {
+      "name": "Color Mixing Play - Paint Lab",
+      "name_ja": "いろまぜあそび - 色水・えのぐ・ひかり",
+      "icon": "🧪",
+      "android_package": "jp.razuma.colormixing",
+      "ios_id": ""
+    },
+    {
+      "name": "Funny Face Camera - Warp",
+      "name_ja": "変顔カメラ - 顔をゆがめて遊ぶ",
+      "icon": "🤪",
+      "android_package": "jp.razuma.funnyfacecamera",
+      "ios_id": ""
+    },
+    {
+      "name": "Time Warp Scan: Blue Line Face",
+      "name_ja": "タイムワープスキャン - 青い線で顔が伸びる",
+      "icon": "🌀",
+      "android_package": "jp.razuma.timewarpscan",
+      "ios_id": ""
+    },
+    {
+      "name": "Drawing Pad",
+      "name_ja": "おえかき帳",
+      "icon": "🎨",
+      "android_package": "jp.razuma.drawingbook",
+      "ios_id": "id1599866010"
+    },
+    {
+      "name": "Reaction rate measurement",
+      "name_ja": "反応速度測定",
+      "icon": "⚡",
+      "android_package": "jp.razuma.reactiontimetest",
+      "ios_id": "id1669730948"
+    }
+  ]
+}
