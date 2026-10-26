@@ -8,6 +8,13 @@
   },
   "apps": [
     {
+      "name": "Hidden Objects: Seek & Find",
+      "name_ja": "探し物ゲーム - 絵探し・さがしものパズル",
+      "icon": "🔎",
+      "android_package": "jp.razuma.hiddenobjects",
+      "ios_id": ""
+    },
+    {
       "name": "Drawing Pad",
       "name_ja": "おえかき帳",
       "icon": "🎨",

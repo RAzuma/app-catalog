@@ -139,6 +139,13 @@
       "icon": "🔄",
       "android_package": "jp.razuma.negativeimagecamera",
       "ios_id": "id6514303503"
+    },
+    {
+      "name": "Hidden Objects: Seek & Find",
+      "name_ja": "探し物ゲーム - 絵探し・さがしものパズル",
+      "icon": "🔎",
+      "android_package": "jp.razuma.hiddenobjects",
+      "ios_id": ""
     }
   ]
 }

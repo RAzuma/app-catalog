@@ -8,6 +8,13 @@
   },
   "apps": [
     {
+      "name": "Hidden Objects: Seek & Find",
+      "name_ja": "探し物ゲーム - 絵探し・さがしものパズル",
+      "icon": "🔎",
+      "android_package": "jp.razuma.hiddenobjects",
+      "ios_id": ""
+    },
+    {
       "name": "Kaleidoscope Photo: Mirror",
       "name_ja": "万華鏡フォト - 写真を万華鏡模様に",
       "icon": "💠",
