@@ -8,6 +8,13 @@
   },
   "apps": [
     {
+      "name": "Face Blur: Mosaic & Censor",
+      "name_ja": "顔ぼかし - モザイク・スタンプで顔隠し",
+      "icon": "🙈",
+      "android_package": "jp.razuma.faceblur",
+      "ios_id": ""
+    },
+    {
       "name": "Kaleidoscope Camera: Mirror",
       "name_ja": "万華鏡カメラ - リアルタイム万華鏡",
       "icon": "🔮",

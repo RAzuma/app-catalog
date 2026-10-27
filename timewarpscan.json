@@ -8,6 +8,13 @@
   },
   "apps": [
     {
+      "name": "Face Blur: Mosaic & Censor",
+      "name_ja": "顔ぼかし - モザイク・スタンプで顔隠し",
+      "icon": "🙈",
+      "android_package": "jp.razuma.faceblur",
+      "ios_id": ""
+    },
+    {
       "name": "Magnifier & Microscope: Light",
       "name_ja": "拡大鏡＆顕微鏡 - ルーペ・虫眼鏡・ライト付き",
       "icon": "🔍",

@@ -8,6 +8,13 @@
   },
   "apps": [
     {
+      "name": "Face Blur: Mosaic & Censor",
+      "name_ja": "顔ぼかし - モザイク・スタンプで顔隠し",
+      "icon": "🙈",
+      "android_package": "jp.razuma.faceblur",
+      "ios_id": ""
+    },
+    {
       "name": "Time Warp Scan: Blue Line Face",
       "name_ja": "タイムワープスキャン - 青い線で顔が伸びる",
       "icon": "🌀",
