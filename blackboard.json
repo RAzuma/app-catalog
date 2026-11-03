@@ -8,6 +8,13 @@
   },
   "apps": [
     {
+      "name": "Focus Room: Study Timer",
+      "name_ja": "おへやタイマー - 勉強タイマーでお部屋を育てる",
+      "icon": "🏠",
+      "android_package": "jp.razuma.focusroom",
+      "ios_id": ""
+    },
+    {
       "name": "Sound Meter: Decibel & Noise",
       "name_ja": "騒音計アプリ - 騒音測定・デシベル・周波数",
       "icon": "🔊",

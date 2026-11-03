@@ -8,6 +8,13 @@
   },
   "apps": [
     {
+      "name": "Focus Room: Study Timer",
+      "name_ja": "おへやタイマー - 勉強タイマーでお部屋を育てる",
+      "icon": "🏠",
+      "android_package": "jp.razuma.focusroom",
+      "ios_id": ""
+    },
+    {
       "name": "Sleep Sounds - Rain & Fire",
       "name_ja": "ねむりの音 - 雨音と焚き火で眠る",
       "icon": "🔥",
