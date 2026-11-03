@@ -7,6 +7,13 @@
   },
   "apps": [
     {
+      "name": "ID Photo Maker: Passport Print",
+      "name_ja": "証明写真 - 履歴書・コンビニ印刷",
+      "icon": "🪪",
+      "android_package": "jp.razuma.idphoto",
+      "ios_id": ""
+    },
+    {
       "name": "Face Blur: Mosaic & Censor",
       "name_ja": "顔ぼかし - モザイク・スタンプで顔隠し",
       "icon": "🙈",

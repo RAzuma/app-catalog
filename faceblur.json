@@ -8,6 +8,13 @@
   },
   "apps": [
     {
+      "name": "ID Photo Maker: Passport Print",
+      "name_ja": "証明写真 - 履歴書・コンビニ印刷",
+      "icon": "🪪",
+      "android_package": "jp.razuma.idphoto",
+      "ios_id": ""
+    },
+    {
       "name": "Magnifier & Microscope: Light",
       "name_ja": "拡大鏡＆顕微鏡 - ルーペ・虫眼鏡・ライト付き",
       "icon": "🔍",
