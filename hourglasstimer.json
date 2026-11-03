@@ -8,6 +8,13 @@
   },
   "apps": [
     {
+      "name": "Sound Meter: Decibel & Noise",
+      "name_ja": "騒音計アプリ - 騒音測定・デシベル・周波数",
+      "icon": "🔊",
+      "android_package": "jp.razuma.soundmeter",
+      "ios_id": ""
+    },
+    {
       "name": "Visual Timer",
       "name_ja": "ビジュアルタイマー",
       "icon": "⏲️",

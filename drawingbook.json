@@ -8,6 +8,13 @@
   },
   "apps": [
     {
+      "name": "Sound Meter: Decibel & Noise",
+      "name_ja": "騒音計アプリ - 騒音測定・デシベル・周波数",
+      "icon": "🔊",
+      "android_package": "jp.razuma.soundmeter",
+      "ios_id": ""
+    },
+    {
       "name": "Hidden Objects: Seek & Find",
       "name_ja": "探し物ゲーム - 絵探し・さがしものパズル",
       "icon": "🔎",
