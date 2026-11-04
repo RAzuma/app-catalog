@@ -8,6 +8,13 @@
   },
   "apps": [
     {
+      "name": "Work Hours Tracker & Pay",
+      "name_ja": "タイムカード - 勤怠・残業・時給計算",
+      "icon": "🕘",
+      "android_package": "jp.razuma.workhours",
+      "ios_id": ""
+    },
+    {
       "name": "Focus Room: Study Timer",
       "name_ja": "おへやタイマー - 勉強タイマーでお部屋を育てる",
       "icon": "🏠",

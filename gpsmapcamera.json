@@ -8,6 +8,13 @@
   },
   "apps": [
     {
+      "name": "Work Hours Tracker & Pay",
+      "name_ja": "タイムカード - 勤怠・残業・時給計算",
+      "icon": "🕘",
+      "android_package": "jp.razuma.workhours",
+      "ios_id": ""
+    },
+    {
       "name": "ID Photo Maker: Passport Print",
       "name_ja": "証明写真 - 履歴書・コンビニ印刷",
       "icon": "🪪",
