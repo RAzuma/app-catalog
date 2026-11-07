@@ -1,0 +1,116 @@
+{
+  "self": {
+    "name": "Blood Pressure Log & Chart",
+    "name_ja": "血圧手帳 - 記録とグラフ",
+    "icon": "💓",
+    "android_package": "jp.razuma.bloodpressure",
+    "ios_id": ""
+  },
+  "apps": [
+    {
+      "name": "Work Hours Tracker & Pay",
+      "name_ja": "タイムカード - 勤怠・残業・時給計算",
+      "icon": "🕘",
+      "android_package": "jp.razuma.workhours",
+      "ios_id": ""
+    },
+    {
+      "name": "Sleep Sounds - Rain & Fire",
+      "name_ja": "ねむりの音 - 雨音と焚き火で眠る",
+      "icon": "🔥",
+      "android_package": "jp.razuma.sleepsounds",
+      "ios_id": ""
+    },
+    {
+      "name": "Focus Room: Study Timer",
+      "name_ja": "おへやタイマー - 勉強タイマーでお部屋を育てる",
+      "icon": "🏠",
+      "android_package": "jp.razuma.focusroom",
+      "ios_id": ""
+    },
+    {
+      "name": "Sound Meter: Decibel & Noise",
+      "name_ja": "騒音計アプリ - 騒音測定・デシベル・周波数",
+      "icon": "🔊",
+      "android_package": "jp.razuma.soundmeter",
+      "ios_id": ""
+    },
+    {
+      "name": "ID Photo Maker: Passport Print",
+      "name_ja": "証明写真 - 履歴書・コンビニ印刷",
+      "icon": "🪪",
+      "android_package": "jp.razuma.idphoto",
+      "ios_id": ""
+    },
+    {
+      "name": "Timestamp Camera: Photo Stamp",
+      "name_ja": "タイムスタンプカメラ - 写真に日付を焼き込み",
+      "icon": "📅",
+      "android_package": "jp.razuma.timestampcamera",
+      "ios_id": ""
+    },
+    {
+      "name": "GPS Map Camera: Geotag Photo",
+      "name_ja": "GPSマップカメラ - 位置情報と地図を写真に",
+      "icon": "📍",
+      "android_package": "jp.razuma.gpsmapcamera",
+      "ios_id": ""
+    },
+    {
+      "name": "Magnifier & Microscope: Light",
+      "name_ja": "拡大鏡＆顕微鏡 - ルーペ・虫眼鏡・ライト付き",
+      "icon": "🔍",
+      "android_package": "jp.razuma.magnifiermicroscope",
+      "ios_id": ""
+    },
+    {
+      "name": "Face Blur: Mosaic & Censor",
+      "name_ja": "顔ぼかし - モザイク・スタンプで顔隠し",
+      "icon": "🙈",
+      "android_package": "jp.razuma.faceblur",
+      "ios_id": ""
+    },
+    {
+      "name": "Hourglass Timer",
+      "name_ja": "砂時計タイマー",
+      "icon": "⏳",
+      "android_package": "jp.razuma.hourglasstimer",
+      "ios_id": ""
+    },
+    {
+      "name": "Visual Timer",
+      "name_ja": "ビジュアルタイマー",
+      "icon": "⏲️",
+      "android_package": "jp.razuma.visualtimer",
+      "ios_id": "id6796614986"
+    },
+    {
+      "name": "Big Timer - Simple",
+      "name_ja": "大きいタイマー",
+      "icon": "⏱️",
+      "android_package": "jp.razuma.big.timer",
+      "ios_id": "id1619061460"
+    },
+    {
+      "name": "Simple Whiteboard",
+      "name_ja": "シンプルホワイトボード",
+      "icon": "🖊️",
+      "android_package": "jp.razuma.whiteboard",
+      "ios_id": "id1599938892"
+    },
+    {
+      "name": "Simple blackboard",
+      "name_ja": "シンプル黒板",
+      "icon": "🟩",
+      "android_package": "jp.razuma.blackboard",
+      "ios_id": "id1600026235"
+    },
+    {
+      "name": "Ghost Leg",
+      "name_ja": "あみだくじ",
+      "icon": "🪜",
+      "android_package": "jp.razuma.ghostleg",
+      "ios_id": "id1612595162"
+    }
+  ]
+}

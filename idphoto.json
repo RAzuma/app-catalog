@@ -8,6 +8,13 @@
   },
   "apps": [
     {
+      "name": "Blood Pressure Log & Chart",
+      "name_ja": "血圧手帳 - 記録とグラフ",
+      "icon": "💓",
+      "android_package": "jp.razuma.bloodpressure",
+      "ios_id": ""
+    },
+    {
       "name": "Work Hours Tracker & Pay",
       "name_ja": "タイムカード - 勤怠・残業・時給計算",
       "icon": "🕘",

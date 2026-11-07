@@ -8,6 +8,13 @@
   },
   "apps": [
     {
+      "name": "Blood Pressure Log & Chart",
+      "name_ja": "血圧手帳 - 記録とグラフ",
+      "icon": "💓",
+      "android_package": "jp.razuma.bloodpressure",
+      "ios_id": ""
+    },
+    {
       "name": "Timestamp Camera: Photo Stamp",
       "name_ja": "タイムスタンプカメラ - 写真に日付を焼き込み",
       "icon": "📅",
