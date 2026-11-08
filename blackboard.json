@@ -8,6 +8,13 @@
   },
   "apps": [
     {
+      "name": "Trace Drawing: AR Light Box",
+      "name_ja": "なぞり絵 - 写真をなぞって絵の練習",
+      "icon": "✏️",
+      "android_package": "jp.razuma.tracedrawing",
+      "ios_id": ""
+    },
+    {
       "name": "Blood Pressure Log & Chart",
       "name_ja": "血圧手帳 - 記録とグラフ",
       "icon": "💓",

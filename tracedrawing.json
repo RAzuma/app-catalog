@@ -1,0 +1,109 @@
+{
+  "self": {
+    "name": "Trace Drawing: AR Light Box",
+    "name_ja": "なぞり絵 - 写真をなぞって絵の練習",
+    "icon": "✏️",
+    "android_package": "jp.razuma.tracedrawing",
+    "ios_id": ""
+  },
+  "apps": [
+    {
+      "name": "DrawingBook",
+      "name_ja": "おえかき帳",
+      "icon": "🎨",
+      "android_package": "jp.razuma.drawingbook",
+      "ios_id": "id1599866010"
+    },
+    {
+      "name": "Simple Whiteboard",
+      "name_ja": "シンプルホワイトボード",
+      "icon": "🖊️",
+      "android_package": "jp.razuma.whiteboard",
+      "ios_id": "id1599938892"
+    },
+    {
+      "name": "Simple blackboard",
+      "name_ja": "シンプル黒板",
+      "icon": "🟩",
+      "android_package": "jp.razuma.blackboard",
+      "ios_id": "id1600026235"
+    },
+    {
+      "name": "Color Mixing Play - Paint Lab",
+      "name_ja": "いろまぜあそび - 色水・えのぐ・ひかり",
+      "icon": "🧪",
+      "android_package": "jp.razuma.colormixing",
+      "ios_id": ""
+    },
+    {
+      "name": "Hidden Objects: Seek & Find",
+      "name_ja": "探し物ゲーム - 絵探し・さがしものパズル",
+      "icon": "🔎",
+      "android_package": "jp.razuma.hiddenobjects",
+      "ios_id": ""
+    },
+    {
+      "name": "Kaleidoscope Photo: Mirror",
+      "name_ja": "万華鏡フォト - 写真を万華鏡模様に",
+      "icon": "💠",
+      "android_package": "jp.razuma.kaleidoscopephoto",
+      "ios_id": "id6800789820"
+    },
+    {
+      "name": "Kaleidoscope Camera: Mirror",
+      "name_ja": "万華鏡カメラ - リアルタイム万華鏡",
+      "icon": "🔮",
+      "android_package": "jp.razuma.kaleidoscopecamera",
+      "ios_id": ""
+    },
+    {
+      "name": "Funny Face Camera - Warp",
+      "name_ja": "変顔カメラ - 顔をゆがめて遊ぶ",
+      "icon": "🤪",
+      "android_package": "jp.razuma.funnyfacecamera",
+      "ios_id": ""
+    },
+    {
+      "name": "Magnifier & Microscope: Light",
+      "name_ja": "拡大鏡＆顕微鏡 - ルーペ・虫眼鏡・ライト付き",
+      "icon": "🔍",
+      "android_package": "jp.razuma.magnifiermicroscope",
+      "ios_id": ""
+    },
+    {
+      "name": "Timestamp Camera: Photo Stamp",
+      "name_ja": "タイムスタンプカメラ - 写真に日付を焼き込み",
+      "icon": "📅",
+      "android_package": "jp.razuma.timestampcamera",
+      "ios_id": ""
+    },
+    {
+      "name": "Low Quality Camera: Tiny Files",
+      "name_ja": "低画質カメラ - 写真と動画を軽く小さく",
+      "icon": "🪶",
+      "android_package": "jp.razuma.lowqualitycamera",
+      "ios_id": ""
+    },
+    {
+      "name": "Fisheye Camera: Lens & Video",
+      "name_ja": "魚眼カメラ - 魚眼レンズで写真と動画",
+      "icon": "🐟",
+      "android_package": "jp.razuma.fisheyecamera",
+      "ios_id": ""
+    },
+    {
+      "name": "Focus Room: Study Timer",
+      "name_ja": "おへやタイマー - 勉強タイマーでお部屋を育てる",
+      "icon": "🏠",
+      "android_package": "jp.razuma.focusroom",
+      "ios_id": ""
+    },
+    {
+      "name": "Hourglass Timer",
+      "name_ja": "砂時計タイマー",
+      "icon": "⏳",
+      "android_package": "jp.razuma.hourglasstimer",
+      "ios_id": ""
+    }
+  ]
+}

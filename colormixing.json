@@ -8,6 +8,13 @@
   },
   "apps": [
     {
+      "name": "Trace Drawing: AR Light Box",
+      "name_ja": "なぞり絵 - 写真をなぞって絵の練習",
+      "icon": "✏️",
+      "android_package": "jp.razuma.tracedrawing",
+      "ios_id": ""
+    },
+    {
       "name": "Hidden Objects: Seek & Find",
       "name_ja": "探し物ゲーム - 絵探し・さがしものパズル",
       "icon": "🔎",

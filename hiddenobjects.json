@@ -8,6 +8,13 @@
   },
   "apps": [
     {
+      "name": "Trace Drawing: AR Light Box",
+      "name_ja": "なぞり絵 - 写真をなぞって絵の練習",
+      "icon": "✏️",
+      "android_package": "jp.razuma.tracedrawing",
+      "ios_id": ""
+    },
+    {
       "name": "Toilet Escape - Escape Room",
       "name_ja": "脱出ゲーム トイレから出られない！初心者編",
       "icon": "🚽",
