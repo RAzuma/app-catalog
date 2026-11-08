@@ -8,6 +8,13 @@
   },
   "apps": [
     {
+      "name": "Revive: Restore Old Photos",
+      "name_ja": "写真よみがえり - 修復とカラー化",
+      "icon": "🪄",
+      "android_package": "jp.razuma.photorestore",
+      "ios_id": ""
+    },
+    {
       "name": "Trace Drawing: AR Light Box",
       "name_ja": "なぞり絵 - 写真をなぞって絵の練習",
       "icon": "✏️",
