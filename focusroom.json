@@ -8,6 +8,13 @@
   },
   "apps": [
     {
+      "name": "Speaker Cleaner: Water Eject",
+      "name_ja": "スピーカーの水抜き",
+      "icon": "💧",
+      "android_package": "jp.razuma.speakercleaner",
+      "ios_id": ""
+    },
+    {
       "name": "Blood Pressure Log & Chart",
       "name_ja": "血圧手帳 - 記録とグラフ",
       "icon": "💓",

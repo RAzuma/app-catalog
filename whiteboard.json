@@ -8,6 +8,13 @@
   },
   "apps": [
     {
+      "name": "Speaker Cleaner: Water Eject",
+      "name_ja": "スピーカーの水抜き",
+      "icon": "💧",
+      "android_package": "jp.razuma.speakercleaner",
+      "ios_id": ""
+    },
+    {
       "name": "Trace Drawing: AR Light Box",
       "name_ja": "なぞり絵 - 写真をなぞって絵の練習",
       "icon": "✏️",
