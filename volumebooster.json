@@ -8,6 +8,13 @@
   },
   "apps": [
     {
+      "name": "WiFi Signal Finder: Best Spot",
+      "name_ja": "Wi-Fi 電波チェック：強い場所を探す",
+      "icon": "📶",
+      "android_package": "jp.razuma.wifisignal",
+      "ios_id": ""
+    },
+    {
       "name": "Speaker Cleaner: Water Eject",
       "name_ja": "スピーカーの水抜き",
       "icon": "💧",
