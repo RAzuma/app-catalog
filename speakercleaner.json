@@ -8,6 +8,13 @@
   },
   "apps": [
     {
+      "name": "Volume Booster: Louder Sound",
+      "name_ja": "音量ブースター：音を大きく",
+      "icon": "📢",
+      "android_package": "jp.razuma.volumebooster",
+      "ios_id": ""
+    },
+    {
       "name": "Sound Meter: Decibel & Noise",
       "name_ja": "騒音計アプリ - 騒音測定・デシベル・周波数",
       "icon": "🔊",

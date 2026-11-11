@@ -8,6 +8,13 @@
   },
   "apps": [
     {
+      "name": "Volume Booster: Louder Sound",
+      "name_ja": "音量ブースター：音を大きく",
+      "icon": "📢",
+      "android_package": "jp.razuma.volumebooster",
+      "ios_id": ""
+    },
+    {
       "name": "Speaker Cleaner: Water Eject",
       "name_ja": "スピーカーの水抜き",
       "icon": "💧",
