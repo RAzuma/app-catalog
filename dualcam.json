@@ -7,6 +7,13 @@
   },
   "apps": [
     {
+      "name": "Blur Background: Bokeh Photo",
+      "name_ja": "背景ぼかし - 一眼レフ風の玉ボケ加工",
+      "icon": "✨",
+      "android_package": "jp.razuma.backgroundblur",
+      "ios_id": ""
+    },
+    {
       "name": "Revive: Restore Old Photos",
       "name_ja": "写真よみがえり - 修復とカラー化",
       "icon": "🪄",

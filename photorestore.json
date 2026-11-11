@@ -8,6 +8,13 @@
   },
   "apps": [
     {
+      "name": "Blur Background: Bokeh Photo",
+      "name_ja": "背景ぼかし - 一眼レフ風の玉ボケ加工",
+      "icon": "✨",
+      "android_package": "jp.razuma.backgroundblur",
+      "ios_id": ""
+    },
+    {
       "name": "Trace Drawing: AR Light Box",
       "name_ja": "なぞり絵 - 写真をなぞって絵の練習",
       "icon": "✏️",
