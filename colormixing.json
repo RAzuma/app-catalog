@@ -111,6 +111,13 @@
       "icon": "🪜",
       "android_package": "jp.razuma.ghostleg",
       "ios_id": "id1612595162"
+    },
+    {
+      "name": "Hyakunin Isshu: Karuta Reader & Memorization",
+      "name_ja": "百人一首 暗記と読み上げ（下の句かるた対応）",
+      "icon": "🎴",
+      "android_package": "jp.razuma.hyakuninisshu",
+      "ios_id": ""
     }
   ]
 }

@@ -1,0 +1,53 @@
+{
+  "self": {
+    "name": "Hyakunin Isshu: Karuta Reader & Memorization",
+    "name_ja": "百人一首 暗記と読み上げ（下の句かるた対応）",
+    "icon": "🎴",
+    "android_package": "jp.razuma.hyakuninisshu",
+    "ios_id": ""
+  },
+  "apps": [
+    {
+      "name": "Memorize General Tokugawa",
+      "name_ja": "徳川将軍暗記",
+      "icon": "🏯",
+      "android_package": "jp.razuma.tokugawa",
+      "ios_id": ""
+    },
+    {
+      "name": "Element Symbols - Quiz & List",
+      "name_ja": "元素記号学習 - 118元素をクイズで暗記",
+      "icon": "⚛️",
+      "android_package": "jp.razuma.chemical.elements.learning",
+      "ios_id": ""
+    },
+    {
+      "name": "Simplify Fractions - Simple",
+      "name_ja": "シンプルな約分",
+      "icon": "➗",
+      "android_package": "jp.razuma.simplifyfractions",
+      "ios_id": ""
+    },
+    {
+      "name": "Online Quiz Buzzer",
+      "name_ja": "オンライン早押しボタン",
+      "icon": "🔔",
+      "android_package": "jp.razuma.online.quiz.buzzer",
+      "ios_id": ""
+    },
+    {
+      "name": "Touch the Numbers - Brain Game",
+      "name_ja": "数字早押しゲーム - 数字タッチで脳トレ",
+      "icon": "🔢",
+      "android_package": "jp.razuma.touchthenumber",
+      "ios_id": ""
+    },
+    {
+      "name": "Color Mixing Play - Paint Lab",
+      "name_ja": "いろまぜあそび - 色水・えのぐ・ひかり",
+      "icon": "🧪",
+      "android_package": "jp.razuma.colormixing",
+      "ios_id": ""
+    }
+  ]
+}
