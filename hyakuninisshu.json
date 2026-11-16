@@ -8,6 +8,13 @@
   },
   "apps": [
     {
+      "name": "Kotowaza: Japanese Proverbs, Idioms & Yojijukugo",
+      "name_ja": "ことわざ・慣用句・四字熟語　意味と例文で覚える",
+      "icon": "📖",
+      "android_package": "jp.razuma.kotowaza",
+      "ios_id": ""
+    },
+    {
       "name": "Memorize General Tokugawa",
       "name_ja": "徳川将軍暗記",
       "icon": "🏯",
