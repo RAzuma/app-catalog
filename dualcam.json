@@ -56,6 +56,13 @@
       "ios_id": ""
     },
     {
+      "name": "Time Lapse Camera & Timelapse",
+      "name_ja": "タイムラプスカメラ - 画面オフでも長時間撮影",
+      "icon": "🌅",
+      "android_package": "jp.razuma.timelapsecamera",
+      "ios_id": ""
+    },
+    {
       "name": "Fisheye Camera: Lens & Video",
       "name_ja": "魚眼カメラ - 魚眼レンズで写真と動画",
       "icon": "🐟",

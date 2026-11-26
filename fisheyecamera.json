@@ -8,6 +8,13 @@
   },
   "apps": [
     {
+      "name": "Time Lapse Camera & Timelapse",
+      "name_ja": "タイムラプスカメラ - 画面オフでも長時間撮影",
+      "icon": "🌅",
+      "android_package": "jp.razuma.timelapsecamera",
+      "ios_id": ""
+    },
+    {
       "name": "Blur Background: Bokeh Photo",
       "name_ja": "背景ぼかし - 一眼レフ風の玉ボケ加工",
       "icon": "✨",
