@@ -8,6 +8,13 @@
   },
   "apps": [
     {
+      "name": "IC Card Balance Checker",
+      "name_ja": "かざすだけ ICカード残高チェッカー",
+      "icon": "💳",
+      "android_package": "jp.razuma.iccardbalance",
+      "ios_id": ""
+    },
+    {
       "name": "Work Hours Tracker & Pay",
       "name_ja": "タイムカード - 勤怠・残業・時給計算",
       "icon": "🕘",
