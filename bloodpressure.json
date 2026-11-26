@@ -8,6 +8,13 @@
   },
   "apps": [
     {
+      "name": "Heart Rate Monitor & Log",
+      "name_ja": "心拍計：指で脈拍を測って記録",
+      "icon": "❤️",
+      "android_package": "jp.razuma.heartrate",
+      "ios_id": ""
+    },
+    {
       "name": "Video to MP3: Extract Audio",
       "name_ja": "動画MP3変換 - 音声抽出・切り取り",
       "icon": "🎵",

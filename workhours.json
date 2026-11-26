@@ -36,6 +36,13 @@
       "ios_id": ""
     },
     {
+      "name": "Heart Rate Monitor & Log",
+      "name_ja": "心拍計：指で脈拍を測って記録",
+      "icon": "❤️",
+      "android_package": "jp.razuma.heartrate",
+      "ios_id": ""
+    },
+    {
       "name": "Blood Pressure Log & Chart",
       "name_ja": "血圧手帳 - 記録とグラフ",
       "icon": "💓",
